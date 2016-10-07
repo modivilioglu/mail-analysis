@@ -6,6 +6,8 @@ to retrieve information from email files, and make some simple analysis via inge
 
 ## Code Example
 
+Note: Please read the comments in AvarageWordCalculator and TopRecipentsCalculator classes!
+
 From the client's perspective the commands can be called as below:
 '
 
