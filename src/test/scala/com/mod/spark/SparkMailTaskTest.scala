@@ -29,7 +29,8 @@ class SparkMailTaskSpec extends FlatSpec with BeforeAndAfter with Matchers {
   
   "The avarage number of words each mail contains" should "be correct" in {
     val awc = new AvarageWordCalculator
-    awc.getAvarageWordsPerMail(sc, pathForMails) should equal(347L)
+    awc.getAvarageWordsPerMail(sc, pathForMails) should be > (330L)
+    awc.getAvarageWordsPerMail(sc, pathForMails) should be < (370L)
   }
   
   "The first 100 recipents" should "be correct" in {
