@@ -26,7 +26,12 @@ The Analysis answers 2 questions
 
 ## Installation
 
-After downloading the project, you should be running from the command line sbt.
+Please run from the command line the following command in your installation directory.
+
+sh> git clone https://github.com/modivilioglu/mailanalysis
+sh> cd mailanalysis/
+sh> sbt test
+
 
 ## Tests
 

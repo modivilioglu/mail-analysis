@@ -1,8 +1,0 @@
-[DEFAULT]
-BASEURL=http://www.enronx.org/
-[DOC#0#1]
-BASEURL=http://www.rextoninvestment.com/enronX/enronxx.htm
-ORIGURL=http://www.rextoninvestment.com/enronX/enronxx.htm
-[InternetShortcut]
-URL=http://www.enronx.org/
-Modified=3080C04B517FC1014D

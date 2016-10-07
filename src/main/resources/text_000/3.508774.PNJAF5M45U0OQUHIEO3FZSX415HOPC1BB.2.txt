@@ -1,8 +1,0 @@
-Proposed Kennedy Oil Gas Purchase Agreement	
-Term:	November 1, 2001 - October 31, 2003	
-Pricing:	
-0 to 10,000 MMBtu/d	NYMEX (NX1) minus $0.62	Firm	
-10,001 to 15,000 MMBtu/d	Inside FERC NGPL MidCon minus $0.47	Firm	
-15,001 MMBtu/d to 80% of Nomination*	Inside FERC CIG Rocky Mtn minus $0.03	Interruptible	
-Remaining Volume	Gas Daily CIG (N. Syst) minus $0.03	Interruptible	
-* ENA sets the nomination amount each month	
