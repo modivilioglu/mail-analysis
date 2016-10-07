@@ -9,14 +9,14 @@ to retrieve information from email files, and make some simple analysis via inge
 Note: Please read the comments in AvarageWordCalculator and TopRecipentsCalculator classes!
 
 From the client's perspective the commands can be called as below:
-'
 
+```
 	val trc = new TopRecipentsCalculator
     val result = trc.reduce(sc, pathForXML) 
     
     val awc = new AvarageWordCalculator
     awc.getAvarageWordsPerMail(sc, pathForMails) 
-    
+```    
 
 ## Motivation
 
@@ -27,12 +27,12 @@ The Analysis answers 2 questions
 ## Installation
 
 Please run from the command line the following command in your installation directory.
-'
 
+```
 sh> git clone https://github.com/modivilioglu/mailanalysis
 sh> cd mailanalysis/
 sh> sbt test
-
+```
 
 ## Tests
 
