@@ -1,0 +1,48 @@
+
+
+October 3, 2001
+
+
+J.M. Huber Corporation
+11451 Katy Freeway, Suite 400
+Houston, Texas 77079
+
+TRANSACTION AGREEMENT
+
+
+This Transaction Agreement shall form and effectuate the agreement reached between J.M. Huber Corporation ("Customer") and Enron North America Corp. ("Company") regarding the firm purchase and sale of Gas under the following terms and conditions.  Company shall purchase and receive (Buyer) and Customer shall sell and deliver (Seller). 
+
+DAILY CONTRACT QUANTITY (DCQ): The lessor of (i) 20,000 MMBtu per Day or (ii) the quantity of Gas scheduled by El Paso Natural Gas Company (“EL Paso”) under Customer’s Transport (hereafter defined) to the Delivery Point(s).  
+MAXDQ (if applicable): N/A
+MINMQ (if applicable): N/A
+MINDQ (if applicable): N/A
+DELIVERY POINT(S): PG&E Topock on El Paso (EPNG Code 157).  In the event that El Paso restricts the quantity of Gas Customer is able to Schedule at PG&E Topock, Seller shall Schedule the remaining portion of the DCQ at [San Juan].
+CONTRACT PRICE (per MMBtu): The Contract Price for all quanitities of Gas Scheduled at the PG&E Topock Delivery Point  shall be the “Daily Midpoint” price set forth in Gas Daily® (Financial Times Energy), or successor publication, in the column "Daily Price Survey" under the listing applicable to PG&E, large packages minus $0.05.  The Contract Price for all quanitities of Gas Scheduled at the [San Juan] Delivery Point  shall be the “Daily Midpoint” price set forth in Gas Daily® (Financial Times Energy), or successor publication, in the column "Daily Price Survey" under the listing applicable to _______________ minus $_____.  
+PERIOD OF DELIVERY:   November 1, 2001 through May 31, 2006
+SPOT PRICE LOCATION: N/A
+OTHER: Conditions Precedent.  Company’s obligations under this Transaction Agreement are expressly subject to the following conditions precedent:
+
+Satisfaction by Customer of all the conditions set forth in Section 3.1 of that certain Capacity Release and Assignment Agreement between Customer and Company of even date herewith (the “Capacity Release Agreement”).
+Completion of the permanent capacity release of the El Paso transportation capacity from Company to Customer in accordance with the terms and conditions of the Capacity Release Agreement.
+   
+
+This Transaction Agreement is being provided pursuant to and in accordance with the ENFOLIO Master Firm Purchase/Sale Agreement in effect between Customer and Company dated August 1, 2000 and constitutes part of and is subject to all of the terms and provisions of such Agreement.  Please execute this Transaction Agreement and return an executed copy to Company.  Your execution should reflect the appropriate party in your organization who has the authority to cause Customer to enter into this Transaction.  In the event Customer alters the terms of this Transaction Agreement in any manner there will be no Transaction pursuant to this Transaction Agreement.
+
+
+ENRON NORTH AMERICA CORP.
+J.M. HUBER CORPORATION
+
+
+
+
+By:  
+By: _______________________________________________
+ Name:
+ Name:
+ Title:
+ Title:
+
+
+
+
+

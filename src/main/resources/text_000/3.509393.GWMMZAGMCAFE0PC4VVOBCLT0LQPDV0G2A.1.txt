@@ -1,0 +1,79 @@
+AMENDMENT TO GAS PURCHASE AGREEMENT 
+(Reserve Commitment/Index Pricing)
+
+ WHEREAS, KENNEDY OIL (as seller and Seller’s Representative, "Seller") and ENRON NORTH AMERICA CORP. ("Buyer") have entered into that certain Gas Purchase Agreement (Reserve Commitment/Index Pricing) (the "Agreement") dated August 27, 1999, governing Buyer’s purchase of Seller's natural gas production located in the Powder River Basin in Wyoming; and
+
+ WHEREAS, Owner and Gatherer desire to enter into this Amendment to the Agreement (this "Amendment") effective as of __________, 2001 (the "Effective Date").
+
+ NOW, THEREFORE, Buyer and Seller, in consideration of the mutual benefits to be derived hereunder, as of the Effective Date do hereby agree as follows:
+
+1. “Article 2. CONTRACT PRICE” is hereby amended and restated by deleting it in its entirety and replacing it with the following:
+
+“2.1. Contract Price.  From December 1, 2001 through October 31, 2003 ("Pricing Term"), and Month to Month thereafter until either Party makes the Renegotiation Election, Buyer shall pay a price per MMBtu determined in accordance with Appendix "1" (in each case, the "Contract Price"), determined on a dry basis, for Gas delivered each Month, equal to the following:
+
+
+for volumes of Gas delivered hereunder each Day up to 15,000 MMBtu per Day (the "Firm Quantity")  the price shall be:
+
+ (1) for volumes up to 10,000 MMBtu per Day the price per MMBtu shall equal the Inside F.E.R.C. first of the Month "Index Price" for NGPL – MidCon, less $0.47, less the Field Services Fee; and
+
+ (2) for volumes in excess of 10,000 MMBtu per Day and up to 15,000 MMBtu per Day the price per MMBtu shall equal settlement price on the last trading day for the NYMEX Gas futures contracts applicable to the Month of delivery, less $0.62, less the Field Services Fee.
+
+ (ii) for volumes in excess of 15,000 MMBtu per Day and up to eighty percent (80%) of the the First of the Month Scheduled Volume the price per MMBtu shall equal the Inside F.E.R.C. first of the Month "Index Price" for Colorado Interstate Gas Co. – Rocky Mountains, less $0.03, less the Field Services Fee.
+
+ (iii) for the remaining volume of Seller's Gas delivered hereunder each Day the price shall equal the Gas Daily Price for Rockies, CIG (North System) for each Day, less $0.03, less the Field Services Fee. 
+
+If any referenced index is not available in the future, and the Parties do not agree to an alternative as of the end of the first Month for which the price could not be determined, then the determination of a replacement index shall be subject to arbitration.  The Parties may mutually agree to revise all or a portion of the CIG index component of the Contract Price during the Pricing Term to reflect other market and transport opportunities. 
+
+2.2 Renegotiation/Field Services Option.  Thirty (30) days prior to the expiration of the Pricing Term or at any time thereafter, either Party may elect to renegotiate the Contract Price with written notice to the other Party (the "Renegotiation Election").  Upon the making of the Renegotiation Election the parties shall attempt to renegotiate the Contract Price.  If the Parties cannot agree in writing upon a renegotiated Contract Price, then Seller shall have the right to solicit bids from third parties.  Buyer shall have the preferential right to match any third party bid.  If the parties cannot agree upon a renegotiated Contract Price and/or Buyer elects not to match a third party bid within sixty (60) days of the Renegotiation Election, then this Agreement shall be terminated and the Field Services Agreement shall remain effective and be controlling.” 
+
+2. “Article 3. Quantity Obligations” of the Agreement is hereby amended by adding Section 3.5 as follows:
+
+“3.5  Seller’s Firm Quantity Obligations.  In addition to the obligations set forth in Section 3.1 of this Agreement, Seller agrees that the following shall apply with respect to the Firm Quantity:
+
+(a) Seller's Sales Obligation.  Seller shall Schedule, or cause to be Scheduled, at the Delivery Point(s) on a firm basis each Gas Day a quantity of Gas equal to the Firm Quantity.  
+
+(b) Seller's Failure to Schedule.  If on any Gas Day Seller fails to Schedule the Firm Quantity, then such occurrence shall constitute a "Seller's Deficiency Default" and "Seller's Deficiency Quantity" shall be the numerical difference between the Firm Quantity and the amount of Gas Scheduled for such Gas Day.  In the event of a Seller's Deficiency Default, Seller shall pay Buyer an amount equal to the product of the Seller's Deficiency Quantity multiplied by the Replacement Price Differential.  During any Month in which Seller's nonperformance continues for a period of five consecutive Gas Days Buyer may elect upon notice to Seller, without liability, not to recommence Scheduling Gas hereunder for the remainder of such Month, but for no longer period.  Payment to Buyer shall be made on the 25th Day of the Month in which Seller receives Buyer's statement for same.
+
+3. “Article 3. Quantity Obligations” of the Agreement is hereby amended by adding Section 3.6 as follows:
+
+“3.6  Buyer’s Firm Quantity Obligations.  Notwithstanding Section 3.3, Buyer agrees that the following shall apply with respect to the Firm Quantity:
+
+(a)  Buyer's Purchase Obligation.  Buyer shall Schedule, or cause to be Scheduled, at the Delivery Point(s) on a firm basis each Gas Day a quantity of Gas equal to the Firm Quantity.
+
+(b) Buyer's Failure to Schedule.  If on any Gas Day Buyer fails to Schedule the Firm Quantity, then such occurrence shall constitute a "Buyer's Deficiency Default" and "Buyer's Deficiency Quantity" shall be the numerical difference between the Firm Quantity and the quantity of Gas Scheduled for such Gas Day.  In the event of a Buyer's Deficiency Default, Buyer shall pay Seller an amount equal to the product of Buyer's Deficiency Quantity multiplied by the Replacement Price Differential.  During any Month in which Buyer's nonperformance continues for a period of five consecutive Gas Days Seller may elect upon notice to Buyer, without liability, not to recommence Scheduling Gas for the remainder of such Month, but for no longer period.  Payment to Seller shall be made in accordance with the Financial Matters provisions set forth in Appendix "1."
+
+
+
+“Appendix “1” General Provisions” of the Agreement is hereby amended by replacing the definition of “Force Majeure” with the following:
+
+""Force Majeure" means (a) with respect to the Parties obligations concerning the Firm Quantity, an event not anticipated as of the Effective Date, which is not within the reasonable control of the Party, or in the case of third party obligations or facilities, the third party, claiming suspension, and which by the exercise of due diligence such Party, or third party, is unable to overcome or obtain or cause to be obtained a commercially reasonable substitute performance therefor and (b) with respect to all other obligations of the Parties hereunder, any proration, curtailment, regulation, law or similar order by a governmental body having jurisdiction, failure of available field services or transportation service or capacity or an event not anticipated as of the Effective Date, which is not within the reasonable control of the Party, or in the case of third party obligations or facilities, the third party, claiming suspension, and which by the exercise of due diligence such Party, or third party, is unable to overcome or obtain or cause to be obtained a commercially reasonable substitute performance therefor; provided, (i) the loss of Buyer's markets nor Buyer's inability economically to use or resell Gas purchased hereunder, (ii) Seller's ability to sell Gas to a market at a more advantageous price, or (iii) with respect to the Firm Quanity obligations, the loss or failure of Seller's Gas supply, including, without limitation, depletion of reserves or other failure of production,  shall constitute an event of Force Majeure.  "Force Majeure" shall include an event of Force Majeure occurring with respect to the facilities or services of Transporter. A Force Majeure event relating to the Field Services shall be as defined in the Field Services Agreement. 
+
+
+“Appendix “1” General Provisions” of the Agreement is hereby amended by adding the following definitions:
+
+""Firm Quantity" shall have the meaning set forth in Section 2.1(i) of this Agreement.
+"Replacement Price Differential" means (i) in the event of a Seller's Deficiency Default, the positive difference, if any, obtained by subtracting the Contract Price from the Spot Price for the Gas Day in which Seller's Deficiency Default occurred, and (ii) in the event of a Buyer's Deficiency Default, the positive difference, if any, obtained by subtracting the Spot Price for the Gas Day in which Buyer's Deficiency Default occurred from the Contract Price.
+"Scheduling" or "Schedule," when used in reference to Seller, means to make Gas available, or cause Gas to be made available, at the Delivery Point(s) for delivery to or for the account of Buyer, including making all Pipeline nominations, and when used in reference to Buyer, means to cause Buyer's Transporter to make available at the Delivery Point(s) transportation capacity sufficient to permit Buyer's Transporter to receive on a firm basis the quantities Seller has available at such Delivery Point(s), including making all Pipeline nominations.  Gas shall be deemed to have been Scheduled when confirmed by Transporter.
+"Spot Price" means the “Daily Midpoint” price set forth in Gas Daily® (Financial Times Energy), or successor publication, in the column "Daily Price Survey" under the listing applicable to CIG-Rockies for the relevant gas day.  If there is no single “Daily Midpoint” price published for that particular Gas Day, but there is published a "Common" range of prices under the above column and listing, then the Spot Price shall be the average of such “Common” high and low prices.  In the event that no ‘Daily Midpoint” price or “Common” range of prices is published for that particular Gas Day, then the Spot Price shall be the average of the following: the price (determined as stated above) for each of the first Gas Day immediately preceding and following the Gas Day in which the default occurred for which a Spot Price can be determined." 
+
+7. THIS AMENDMENT AND THE RIGHTS AND DUTIES OF THE PARTIES ARISING OUT OF THIS AMENDMENT SHALL BE GOVERNED BY AND CONSTRUED, ENFORCED AND PERFORMED IN ACCORDANCE WITH THE LAWS OF THE STATE OF WYOMING, WITHOUT REGARD TO PRINCIPLES OF CONFLICTS OF LAW.  
+
+8. Except as amended herein, the Agreement shall be and remain in full force and effect.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed in multiple originals.
+
+
+BUYER:      SELLER:
+
+ENRON NORTH AMERICA CORP.  KENNEDY OIL
+
+
+By:      By:      
+
+Name:      Name:      
+
+Title:      Title:      
+
+
+
+

@@ -1,0 +1,124 @@
+Date: Mon, 26 Nov 2001 09:04:09 -0800 (PST)
+Subject: SAP System Outage Notification - SPR5DB00 - BBP 2.0 Production, PR2 - HR Production,
+	 PR1 - Apollo Production
+From: ISC Systems Notification <mbx_iscsysno@ENRON.com>
+To: DL-Enron Production SAP Users <DL-EnronProductionSAPUsers@ENRON.com>
+X-SDOC: 932682
+X-ZLID: zl-edrm-enron-v2-whitt-m-99.eml
+
+SAP System Outage Notification
+
+-------------------------------------------------------------
+
+SYSTEM OUTAGE NOTIFICATION 
+
+-------------------------------------------------------------
+
+FOR:    SPR5DB00 - BBP 2.0 Production
+
+
+
+Date & Time of Outage: 
+
+Outage Commences:    November 30, 2001 at 06:00 PM CST
+
+Outage Ends:               December 2, 2001 at 05:00 PM CST
+
+Outage Abstract:             System will be unavailable for Production Build Activities
+
+Outage Description:       System will be unavailable for Production Build Activities
+
+Outage Implication:           No access during outage
+
+Contact:                            713-345-7282
+
+
+Contact:
+
+Contact Information:
+
+Basis On-Call
+
+713-345-7282
+
+ISC Customer Care	 713-345-4727	
+
+
+ 
+
+-------------------------------------------------------------
+
+SYSTEM OUTAGE NOTIFICATION 
+
+-------------------------------------------------------------
+
+FOR:    PR2 - HR Production
+
+
+
+Date & Time of Outage: 
+
+Outage Commences:    November 30, 2001 at 06:00 PM CST
+
+Outage Ends:               December 2, 2001 at 05:00 PM CST
+
+Outage Abstract:             System will be unavailable for Production Build Activities
+
+Outage Description:       System will be unavailable for Production Build Activities
+
+Outage Implication:           No access during outage
+
+Contact:                             713-345-7282
+
+
+Contact:
+
+Contact Information:
+
+Basis On-Call
+
+713-345-7282
+
+ISC Customer Care	 713-345-4727	
+
+
+ 
+
+-------------------------------------------------------------
+
+SYSTEM OUTAGE NOTIFICATION 
+
+-------------------------------------------------------------
+
+FOR:    PR1 - Apollo Production
+
+Date & Time of Outage: 
+
+Outage Commences:    November 30, 2001 at 06:00 PM CST
+
+Outage Ends:               December 2, 2001 at 05:00 PM CST
+
+Outage Abstract:             System will be unavailable for Production Build Activities
+
+Outage Description:       System will be unavailable for Production Build Activities
+
+Outage Implication:           No access during outage
+
+Contact:                             713-345-7282
+
+
+Contact:
+
+Contact Information:
+
+Basis On-Call
+
+713-345-7282
+
+ISC Customer Care	 713-345-4727	
+
+ 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********

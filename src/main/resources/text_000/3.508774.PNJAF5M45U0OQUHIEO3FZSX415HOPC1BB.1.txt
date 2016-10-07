@@ -1,0 +1,50 @@
+
+DISCUSSION DOCUMENT FOR THE PURCHASE AND SALE OF NATURAL GAS
+
+September 2001
+
+
+
+BUYER: Enron North America Corp (“Enron”)
+
+SELLER:  Kennedy Oil (Kennedy)
+
+CONTRACT
+QUANTITY: Dedication of 100% of Kennedy’s coal bed methane production from North, Central and South Kitty fields up to a total of 60,000 MMBtu per day
+
+CONTRACT
+TERM: December 1, 2001 – October 31, 2003
+
+DELIVERY
+POINT: At the interconnection between the Kennedy wellhead facilities and the Bear Paw Energy pipeline system.
+
+GAS PRICE: For volumes of gas delivered hereunder each day for up to eighty percent (80%) of seller’s First of the Month Scheduled Volume the price will be the following Monthly indexes:
+For the first 10,000 MMbtu per day the Contract Price for the applicable Period of Delivery (the “Relevant Period”) shall be the published index specified below:  
+Publication: Inside F.E.R.C.’s Gas Market Report
+Section: Prices of Spot Gas Delivered to Pipelines
+Location: Natural Gas Pipeline Company (Mid-continent zone)
+Price: Index minus $.47 less the applicable gathering services fees
+Issue: First-of-the-month issue for each month during the Relevant Period.
+
+For all gas volumes above 10,000 MMbtu per day up to 15,000 Mmbtu per day the Contract Price for the applicable Period of Delivery (the “Relevant Period”) shall be:  
+Price: The settlement price of the NYMEX Henry Hub gas futures contract for the last trading day of the applicable delivery month, defined as NX1, minus $.62 less the applicable gathering services fees
+For all gas above the initial 15,000 MMbtu per day (up to 80% of the First of the Month Scheduled Volume) the Contract Price for the applicable Period of Delivery (the “Relevant Period”) shall be the published index specified below:  
+Publication: Inside F.E.R.C.’s Gas Market Report
+Section: Prices of Spot Gas Delivered to Pipelines
+Location: Colorado Interstate Gas (North System)
+Price: Index minus $.03 less the applicable gathering services fees
+Issue: First-of-the-month issue for each month during the Relevant Period.
+The remaining 20% of the First of the Month Scheduled Volume will be priced as follows*:
+Publication: Gas Daily
+Section: Daily Price Survey - Rockies
+Location: Colorado Interstate Gas (North System)
+Price: Midpoint index minus $.03 less the applicable gathering services  fees
+Issue: Daily issue for the Relevant Period.
+
+*The Gas Daily pricing is meant to capture the swings in production and operations.
+SCHEDULING
+And PAYMENTS: 
+
+
+No later than seven days prior to the first day of each month Seller shall provide to Buyer nomination of the quantities seller expects to make available and schedule for delivery each month during the term hereof and buyer shall confirm the quantities buyer will take to seller no later than three days prior to the first day of such month.  This volume will be the “First of the Month Scheduled Volume”. 
+All payments will be made based upon the point of title transfer, which in this case is assumed to be the wellhead.  Enron will manage all aspects of Kennedy’s logistics and scheduling.

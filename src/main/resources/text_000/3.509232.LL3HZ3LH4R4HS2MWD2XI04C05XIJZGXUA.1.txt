@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Proposal for Natural Gas and/or Electric Power Supply
+In Response to 
+Clatskanie People’s Utility District
+REQUEST FOR PROPOSALS
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submitted
+September 25, 2001 
+By
+
+ENRON NORTH AMERICA CORPORATION
+121 SW Salmon St. 3WTC0306
+Portland, OR 97204
+
+
+
+Enron North America
+
+RESPONSE TO REQUEST FOR NATURAL GAS SUPPLY PROPOSALS
+
+CONFIDENTIAL:
+
+This Response to Request for Natural Gas Supply Proposals (“Response to RFP”) contains proprietary information of Enron North America Corp (“ENA”). It is to be used solely for the purposes of evaluating and negotiating a potential transaction with ENA or its affiliates, and is to be afforded the same level of confidentiality as Clatskanie Peoples Utility District (“Clatskanie”) accords its own proprietary information. 
+
+
+CONTACT INFORMATION:
+
+Any questions regarding this Response to RFP should be directed to:
+
+Dave Fuller (503) 464-3732  Portland, OR dave.fuller@enron.com
+
+CONTENTS OF PROPOSAL:
+
+ENA is proposing three separate options for Clatskanie:
+
+
+Basis Natural Gas Supply Proposal
+Energy Cost Minimization Proposal
+Slice Hedge Proposal
+
+QUALIFICATIONS:
+
+Enron is a global integrated energy company.  We handle more wholesale natural gas and electric power than any company in the United States.  We have contractual agreements on gas pipelines and transmission systems across the country, including Northwest Pipeline and BPA.  For the year 2000, Enron averaged 23.9 billion cubic feet per day of gas transactions – more than double that of our closest competitor.  Enron’s current credit rating from Standard & Poors is BBB+.  An annual report can be sent by mail, which provides additional financial information about our company.
+
+Enron employ’s a diverse mix of experienced energy commodity experts.  Unique within this industry, Enron's wholesale energy trading group conducts the day-to-day business of buying and selling power, gas and other energy commodities from our state-of-the-art trading floors in Houston, Texas and Portland, Oregon.  Enron possesses the infrastructure -- and the proven ability -- to trade and dispatch power and gas anywhere across North America.  Our talented personnel are backed by the best physical and financial resources available; therefore, we can offer Clatskanie flexible, reliable gas and power supply solutions.  
+
+1.) BASIC GAS SUPPLY PROPOSAL:
+
+ENA is proposing to supply Clatskanie with long-term gas supply, for its power generation project located in Clatskanie, Oregon.  ENA is proposing to supply natural gas under the following terms and conditions:
+
+Parties:
+
+Buyer:  Clatskanie
+Seller:  Enron North America
+
+Term: 
+
+  October 1, 2001 – September 30, 2006 and month-to-month thereafter unless terminated by either Party for any reason upon 15 days written notice to the other Party.  
+Delivery point: 
+ The delivery point of all sales to Clatskanie shall be into the Northwest Natural Gas service territory off Northwest Pipeline.
+
+Quantity:
+
+The Base Gas Quantity (“BGQ”) shall be 3600MMBtu/day.  Clatskanie shall have the right purchase up to the BGQ each day.
+
+Price:
+
+Clatskanie will pay ENA a demand charge, a commodity charge, and variable pipeline charges charge according to the following schedule:
+
+
+Demand Charge - $0.03 /MMBtu times the BGQ
+
+
+Commodity Charge:
+
+
+Base Commodity Charge: Gas Daily Mid-Point of the Common Range of NW Sumas, deliveries for the Day of delivery plus $0.32.  
+
+
+Weekend/Holiday “Put Option” Charge:  If Clatskanie chooses reduce quantity for a single day during a non-holiday weekend, holiday weekend or mid week holiday to a quantity lower than the quantity for the other days during the same period, a charge of $.50/MMBtu shall be assessed on the difference between the original nomination and the reduced nomination for the weekend/holiday.  
+
+
+Pipeline Tariff Charges – Commodity Charge and Fuel according to the applicable tariff.
+
+In the event Clatskanie is able to secure firm capacity on Northwest Pipeline, Enron will reprice the supply based on a single receipt point.
+
+The following fixed-price indications are provided as requested.  They are based on the assumption that gas would be delivered at Sumas, Washington.  
+
+ 1. Six months, November 1, 2001 – April 30, 2002 $___
+
+ 2. One year, November 1, 2001 – October 31, 2002 $___
+
+ 3. Two year, November 1, 2001 – October 31, 2003 $___
+
+Purchase Notification Obligations:
+
+Under this Agreement, Clatskanie will sometimes purchase natural gas from ENA on a daily basis under the following terms and conditions:
+
+
+Purchase Notifications
+Daily Purchase Notifications for Tuesday–Friday for weeks without a holiday must be made by 8:00 am Central Time the day prior to the delivery day.
+Purchase Notifications for Saturday–Monday for non-holiday weekends must be received by 8:00 am Central Time Friday morning and quantity must be the same for all three days.
+Purchase Notifications for Saturday–Tuesday for holiday weekends where the holiday falls on a Monday must be received by 8:00 am Central Time Friday and quantity must be the same for all four days.
+Purchase Notifications for the two days during the week when a business day is followed by a holiday must be received by 8:00 am Central Time on the business day prior to the holiday and quantity must be the same for both days.
+
+
+Weekend/Holiday “Put Option”: Clatskanie can reduce quantity for a single day during a non-holiday weekend, holiday weekend or mid week holiday to a quantity lower than the quantity for the other days during the same period, a charge shall be assessed as discussed below under Price.
+
+Risk Management:
+
+If Clatskanie wishes to fix or cap price during any term of the agreement, ENA can arrange for virtually any type of financially or physically settled risk management instrument that Clatskanie desires (futures, swaps, options, collars, etc).  Enron can supply these whether or not we are selected as the physical supplier.
+
+Under this proposed agreement, Clatskanie shall have the right to “trigger” or “lock in” its delivered gas price.  Clatskanie shall have the right to trigger for the term of its choice to be priced on a best-effort basis by ENA.  The daily volumes of gas triggered by Clatskanie will represent the Minimum Gas Quantity (MGQ).  Clatskanie shall have the right to purchase any quantity between the MGQ and the BGQ.
+
+Operational Flow Order (OFO) Management:
+
+Enron will work with Clatskanie to avert any OFO penalties.  Enron can make available, through one of its subsidiaries, measuring equipment to provide consumption data to Clatskanie and Enron in real time.  In addition, Enron can assist in the procurement of storage to help avert any problems with OFOs and capacity curtailments.  In the absence of storage, our proposed procedures for OFOs are as follows:
+
+
+Buyer shall assign an individual that Seller can contact 24-hours/day regarding OFO events.
+Seller shall be responsible for notifying Buyer in the event of an OFO requiring that Daily deliveries and usage equal each other within the tolerance permitted by the pipeline.  Notification shall be by telephone call on Seller’s recorded line noting the date and time of such call.
+Upon notification by Seller of an OFO event, Buyer shall set an OFO Quantity as the target for Seller to deliver during the OFO event.
+If Seller does not notify Buyer of an OFO event, and Seller incurs penalties as a result of Seller delivering a quantity that differs from Buyer’s usage; such penalties shall be the financial responsibility of Seller. 
+Any penalties incurred by Seller in delivering the OFO Quantity shall be the financial responsibility of Buyer.
+Any penalties incurred by Seller as a result of its failure to deliver the OFO Quantity shall be the responsibility of Seller.
+If Seller cannot contact Buyer’s representative to set the OFO Quantity, Seller shall set the OFO Quantity, notify Buyer of such OFO Quantity by leaving a telephone message with Buyer and shall be financially responsible for any penalties assessed Seller as a result of Seller delivering a quantity that differs from Buyer’s usage.  
+
+Transportation:
+
+Gas will be delivered to the delivery point on a secondary firm basis until primary firm capacity can be secured.
+
+Future Capacity Subscriptions:
+
+Enron routinely participates in open seasons and the capacity release market on Northwest pipeline.  We have individuals on staff devoted full-time to monitoring these opportunities.  Clatskanie can avail itself of these resources as part of a term supply agreement with Enron.  Our staff will work with Clatskanie to proactively petition for open seasons and partner with them to evaluate potential firm capacity opportunities.
+
+
+2.) ENERGY COST MINIMIZATION PROPOSAL:
+
+To minimize Clatskanie’s total energy cost, ENA is proposing to supply Clatskanie with long-term natural gas, or an equivalent quantity of electric power, depending on which commodity is less expensive based on the heat rate of Clatskanie’s generation plant.  ENA is proposing to supply natural gas or electric power under the following terms and conditions:
+
+Parties:
+
+Buyer:  Clatskanie
+Seller:  Enron North America
+
+Term: 
+
+  October 1, 2001 – September 30, 2006 and month-to-month thereafter unless terminated by either Party for any reason upon 15 days written notice to the other Party.  
+
+Product:
+
+Enron will delivery either natural gas or an equivalent quantity of electric power based on the heat rate of Clatskanie’s new gas fired power generation project.
+Delivery point: 
+ The delivery point of all gas sales shall be into the Northwest Natural Gas service territory off Northwest Pipeline.  Electric power will be delivered to Clatskanie’s interconnect with BPA.
+
+Price:
+
+Clatskanie will pay ENA a demand charge, a commodity charge, and variable pipeline or transmission charges according to the following schedule:
+
+
+Demand Charge - $1.39 /MW
+
+
+Commodity Charge:
+
+Gas:   The commodity charge for gas shall be as describer in Section 1 Basic Gas Supply Proposal
+
+Power: The commodity charge for power shall be the weighted average of the daily On Peak and Off Peak, Dow Jones Electricity Prices Indexes, Mid-Columbia Index, as published in the Wall Street Journal.
+
+
+Transportation/Transmission Charge:
+
+Clatskanie shall pay the appropriate transportation or transmission charges on Northwest pipeline or the BPA transmission system as required.
+
+In the event Clatskanie is able to secure firm capacity on Northwest Pipeline, or Firm Transmission rights on BPA, Enron will reprice the supply based on a single receipt point.
+
+Risk Management:
+
+If Clatskanie wishes to fix or cap prices for power or gas during any term of the agreement, ENA can arrange for virtually any type of financially or physically settled risk management instrument that Clatskanie desires (futures, swaps, options, collars, etc).  Enron can supply these whether or not we are selected as the physical supplier.
+
+
+3.) SLICE HEDGE PROPOSAL:
+
+ENA will fix the price and volume associated with Clatskanie’s BPA slice allocation.  ENA would assume all Slice hydro risk that causes the total amount of megawatt hours derived from slice to fluctuate.  If the total amount of megawatts hours from slice falls short of the planned volume, ENA would provide energy from other sources to keep Clatskanie supplied at the forecast load volume.  If the total amount of megawatts hours from slice falls above the planned volume, ENA would liquidate the excess energy.  In order to quote a price and volume for a Slice hedge, ENA would need to have access to additional information regarding Clatskanie’s Slice allocation.
+
+
+
+This Response to RFP intended to facilitate the negotiation, preparation, and execution of definitive agreements. The prices set forth in this Response to RFP are subject to change until, if ever, definitive agreement(s) relating to the prospective transaction addressed herein are executed. This Response to RFP is not intended to create and does not create a binding or enforceable contract or commitment by ENA or any of its affiliates, and may not be relied upon by either party as a basis for a contract by estoppel or otherwise.  Consummation of any transaction is subject to, among other things the following conditions:  (i) receipt of all necessary or advisable regulatory or other approvals, permits and consents, (ii) completion of due diligence inquiries to the satisfaction of ENA, (iii) approval by the board of directors or other required internal approvals of ENA, and, if applicable, their affiliates, and (iv) negotiation, execution, and delivery of definitive agreements relating to all aspects of the transaction.

@@ -1,0 +1,110 @@
+DRAFT
+10/15/01
+
+CAPACITY ASSIGNMENT AND PREARRANGED RELEASE AGREEMENT
+
+ This Capacity Assignment and Release Agreement (this “Agreement”) is entered into effective as of the _____ of October 2001 (the “Effective Date”), by and between Enron North America Corp., a Delaware corporation  (“ENA”) and J.M. Huber Corporation, a New Jersey corporation (“Huber”) (each a “Party” and collectively the “Parties”).
+
+ WHEREAS, ENA and Huber have previously entered into a long term purchase/sale arrangements pursuant to that certain Enfolio Master Firm Purchase/Sale Agreement between ENA and Huber dated August 18, 2000 and its accompanying Transaction dated October ____, 2001, (the “Transaction Agreement”) (the Transaction Agreement and the Enfolio Master Firm Purchase/Sale Agreement between ENA and Huber dated August 18, 2000 are collectively referred to as the “Purchase Agreement”); and
+
+ WHEREAS, Huber desires to (i) take by permanent release or assignment from ENA and (ii) release back to ENA on an annual basis, certain capacity ENA currently holds under that certain Transportation Service Agreement between ENA and El Paso Natural Gas Company (“El Paso”) dated May 1, 2001 (Contract No. 9ME3) (the “El Paso FT Agreement”) in order for ENA to meet its obligations under the Purchase Agreement; and
+
+ WHEREAS, ENA and Huber desire to effect such assignment and capacity release in accordance with the terms and conditions of this Agreement.
+
+ NOW THEREFORE, in consideration of the mutual agreements contained herein, the receipt and sufficiency of which are hereby acknowledged by ENA and Huber, the parties hereby agree as follows:
+
+1.  DEFINITIONS
+
+ Any capitalized terms not defined herein, shall have the meaning set forth in the Purchase Agreement.
+
+
+CAPACITY RELEASE BY ENA
+
+ 2.1 Capacity Release. Huber agrees to enter into a prearranged capacity release transaction (with right to match) with ENA to permanently release from ENA to Huber a total of 30,000 MMBtu per day of capacity currently held by ENA under the El Paso FT Agreement (the total 30,000 MMBtu per day of El Paso capacity referred to as the “Permanently Released Capacity”).  The capacity release from ENA to Huber described in the preceding sentence shall hereinafter be referred to as the “Original El Paso Release”.  Huber agrees to satisfy any requirements of El Paso and execute any and all documents as may be reasonably necessary to effectuate the permanent release of the Permanently Released Capacity such that El Paso (i) agrees to look solely to Huber for all obligations with respect to the Permanently Released Capacity and (ii) releases ENA from all obligations for demand/reservation charges, and all other charges related to the Permanently Released Capacity. 
+
+2.2 Notice of Release. ENA and Huber shall commence the procedures and posting required to effectuate the permanent capacity release described in this Article 2 no later than 10 days after Huber’s receipt of notice from ENA to proceed with the capacity release transactions specified in Section 2.1 of this Agreement.  Huber and ENA shall follow the procedures set forth in El Paso’s Tariff, including without limitation, all bid or notice deadlines, as they are required to be met to effectuate the prearranged permanent capacity release transactions set forth in this Article 2.   
+
+2.3 Capacity Release Term. The permanent capacity release terms described in this Article 2 shall commence on November 1, 2001.  The release shall be effective through the end of the term of the El Paso FT Agreement.  
+
+3.  ANNUAL RE-RELEASE OF CAPACITY BY HUBER
+
+3.1 Huber Capacity Release. During the effectiveness of the Period of Delivery under the Purchase Agreement, Huber agrees that it will enter into an annual prearranged capacity release transaction with ENA as a prearranged shipper for the the portion of the Permanently Release Capacity held by Huber under the Original El Paso Release, with a primary receipt point in the San Juan Basin [need better description] on El Paso’s interstate pipeline system as allocated for the Permanently Released Capacity in accordance with the FERC proceedings as specified under Article 4 of this Agreement, as necessary for ENA to perform its obligations under the Purchase Agreement.  
+
+3.2 Term of Huber Releases. Each annual prearranged capacity release transaction from Huber to ENA, as specified in Section 3.1 of this Agreement, shall be for a term of 1 year.  The capacity release transactions specified in this Article 3 for the capacity held by Huber under the Original El Paso Release shall occur on an annual basis and be effective beginning on November 1, 2001 and each anniversary thereof.    
+
+3.3 Last Term of Huber Release of Original El Paso Release.  Notwithstanding anything to the contrary contained in this Agreement, the final term of the Huber capacity release to ENA of the El Paso Capacity shall be for a term from November 1, 2004 through May 31, 2006 such that none of the terms of the Huber release in accordance with this Article 3 shall be less than one (1) year in duration.
+
+3.4 Procedures. Huber and ENA shall follow the procedures set forth in the El Paso tariffs, including without limitation, all bid or notice deadlines, as they are required to be met to effectuate the prearranged capacity release transactions set forth in this Article 3.  ENA and Huber shall commence the procedures and posting required to effectuate the capacity release described in this Article 3 no later than 10 days after Huber’s receipt of notice from ENA to proceed with the capacity release transactions.  
+
+3.5 Termination of Transaction Agreement.  Notwithstanding anything to the contrary in this Agreement, if the Transaction Agreement is terminated in accordance with its terms, the terms and conditions of this Article 3 shall have no further effect and ENA shall not be obligated to take release of the portions of the Permanently Released Capacity from Huber as specified under this Article 3.
+
+4. FERC CAPACITY PROCEEDINGS
+
+Huber acknowledges and agrees that El Paso’s capacity allocation procedures are under review by FERC at Docket Nos. RP99-507-000, RP00-139-000, and RP00-336-000 and the Permanently Released Capacity as specified herein will be bound by any modifications resulting from such proceedings which are accepted by FERC.   In the event that such proceedings result in refunds of demand or reservation charges for the Permanently Released Capacity for periods prior to the November 1, 2001, ENA shall be entitled to all such refunds and Huber will immediately reimburse ENA for any such refunds received by Huber and in the event that such proceedings result in increases of demand or reservation charges for the Permanently Released Capacity for periods prior to the November 1, 2001, ENA shall be liable for such increases and ENA will immediately reimburse Huber for any such increases paid by Huber.
+
+5.  TERMINATION
+
+This agreement shall be effective as of the Effective Date and continue in full force and effect through the term of the Original El Paso Release.
+
+6.  ARBITRATION
+
+Any dispute relating to this Agreement shall be resolved by binding arbitration pursuant to the Commercial Arbitration Rules of the American Arbitration Association ("AAA") and all such proceedings shall be subject to the Federal Arbitration Act.  Each Party shall select one arbitrator and the two arbitrators shall select a third arbitrator who has not previously been employed by either Party and does not have a direct or indirect interest in either Party or the subject matter of the arbitration. While the third arbitrator shall be neutral, the two Party-appointed arbitrators are not required to be neutral, and it shall not be grounds for removal of either of the two Party-appointed arbitrators or for vacating the arbitrators' award that either of such arbitrators has past or present relationships with the Party that appointed such arbitrator.  Only damages allowed pursuant to this Agreement may be awarded and the arbitrator shall have no authority to award treble, consequential, incidental, indirect, exemplary or punitive, lost profits or other business interruption damages of any type under any circumstances regardless of whether such damages may be available under Texas law. 
+
+7.  LIMITATION OF LIABILITY
+
+NEITHER PARTY SHALL BE LIABLE FOR TREBLE, CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES, LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES, IN TORT, CONTRACT, OR UNDER THIS AGREEMENT.  NOTHING IS THIS AGREEMENT SHALL EFFECT EITHER PARTY’S ABILITY TO RECOVER ANY DAMAGES SET FORTH IN THE PURCHASE AGREEMENT.
+
+8.  FURTHER ASSURANCES
+
+ The Parties will promptly upon reasonable request from the other Party execute and deliver all such other documents and take such other actions as may be reasonably necessary to effectuate the intent and provisions of this Agreement.
+
+9.  MISCELLANEOUS CLAUSES
+
+9.1  Transfer.  This Agreement shall inure to and bind the permitted successors and assigns of the Parties; provided, neither Party shall transfer this Agreement without the prior written approval of the other Party, which approval shall not be unreasonably withheld.
+
+9.2  Enforceability and Irrevocability.  If any part of this Agreement is contrary to, prohibited by or deemed invalid under applicable laws or regulations of any jurisdiction, such provision shall be inapplicable and deemed omitted but shall not invalidate the remaining provisions hereof.  Each Party admits the receipt of a counterpart of this Agreement.
+
+9.3  Confidentiality and Public Statement.  The Parties shall keep the terms and provisions of this Agreement strictly confidential and shall not disclose them, in whole or in part, provided that the Parties may disclose to El Paso the fact that they have entered into an agreement to acquire the Permanently Released Capacity, for purposes of satisfying El Paso's creditworthiness requirements and obtaining El Paso's consent to the assignment of the Permanently Released Capacity.  If any Party shall be required by any court, legislative or administrative body to disclose confidential information, whether by oral questions, interrogatories, requests for information, subpoena, or some other processes, any Party shall have the full right and ability to disclose same without regard to the confidentiality covenant herein contained; provided, however, that such Party shall provide the other Party with as much notice of its requirement to make such disclosure as is reasonably practicable and do all things that the other Party may reasonably request, at the other Party’ cost, to facilitate the other Party’s efforts to eliminate or restrict such requirement.
+
+9.4  Modification and Waiver.  No covenant or condition of this Agreement may be modified by either Party except by the written consent of both Parties.  No waiver by either Party of any one or more defaults by the other party in performance of any of the provisions of this Agreement shall operate or be construed as a waiver of any future defaults, whether of a like or of a different character.
+
+ 9.5  Notices.  All notices and communications made pursuant to this Agreement shall be made as specified below.  Notices required to be in writing shall be delivered in written form by letter, facsimile or other documentary form.  Notice by facsimile or hand delivery shall be deemed to have been received by the close of the day on which it was transmitted or hand delivered (unless transmitted or hand delivered after close of a business day in which case it shall be deemed received at the close of the next business day) or such earlier time confirmed by the receiving Party.  Notice by overnight mail or courier shall be deemed to have been received two business days after it was sent or such earlier time confirmed by the receiving Party.  Any Party may change its addresses by providing notice of same in accordance herewith.
+
+Enron North America Corp.
+1200 17th St., Suite 2750
+Denver, CO 80202
+Attn:  __________________
+ Phone: (303) 575-6465
+ Fax:   (303) 534-0552
+
+J.M. Huber Corporation
+11451 Katy Frwy, Suite 400
+Houston, TX 77079
+Attn:  __________________
+Phone: _________________
+ Fax: ___________________
+
+ 9.6  Entirety and Relationship.  This Agreement constitutes the entire agreement of the Parties concerning the subject matter herein.  Except for the Purchase Agreement, there are no prior or contemporaneous agreements or representations (whether oral or written) involving the subject matter of this Agreement other than those herein expressed.  This Agreement is not intended to create, and shall not be construed to create, a relationship of partnership, joint venturers, or an association for profit between the Parties.
+
+ 9.7  Law.  This Agreement shall be construed under and in accordance with the laws of the state of Texas.
+
+ 9.8 Counterparts.  This Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original and need not be signed by more than one of the Parties and all of which shall constitute one and the same agreement.
+
+ 9.9  Other.  The provisions of this Agreement shall not impart rights enforceable by any person, firm or organization not a Party or not bound as a Party, or not a permitted successor or assignee of a Party bound to this Agreement.  The headings used herein are for convenience and reference purposes only.  The Parties agree that the original executed version of this Agreement or any Schedule may be photocopied and stored on computer tapes and disks, with the Parties specifically agreeing that if such items, if introduced as evidence on paper (or if computer records, then introduced into evidence in printed format), in any judicial, arbitration, mediation or administrative proceedings, will be admissible as between the Parties to the same extent and under the same conditions as other business records originated and maintained in documentary form.  Neither Party shall object to the admissibility of the foregoing items (or photocopies of the foregoing items) on the basis that such were not originated or maintained in documentary form under either the hearsay rule, the best evidence rule or other rule of evidence.
+
+ IN WITNESS WHEREOF, the parties hereto have executed this Assignment effective as of the Effective Date.
+
+ENRON NORTH AMERICA CORP.
+
+By: ___________________________
+Its ____________________________
+
+
+
+J.M. HUBER CORPORATION
+
+By: ___________________________
+Its ____________________________
+
+
+

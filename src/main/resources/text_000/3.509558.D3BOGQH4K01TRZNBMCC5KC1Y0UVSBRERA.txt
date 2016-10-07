@@ -1,0 +1,22 @@
+Date: Mon, 3 Dec 2001 09:36:50 -0800 (PST)
+From: Robert.Jones@mailman.enron.com, HR VP <robert.jones.hrvp@enron.com>
+To: Mark.Whitt@ENRON.com
+Subject: Home Contact Information
+X-SDOC: 932750
+X-ZLID: zl-edrm-enron-v2-whitt-m-167.eml
+
+Please review the home addresss and phone number shown on this eMail.  DO NOT RESPOND if the information is correct.  However, if incorrect then reply to this eMail with the correct information so you HR records can be updated accordingly.  Your home information is important in case the Company needs to forward critical materials to you or contact you regarding important Company information.
+
+
+Address Line 1: 28071 CAMEL HEIGHTS CIR
+Address Line 2: 
+Address Line 3: 
+City: EVERGREEN
+State: CO
+Country: US
+Zip: 80439
+Phone: 3036745459
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********

@@ -1,0 +1,35 @@
+Date: Thu, 13 Dec 2001 14:35:57 -0800 (PST)
+From: Customer Service10 <customerservice10@sierratradingpost.com>
+To: 'mark.whitt@enron.com' <mark.whitt@enron.com>
+Subject: 1967119/Shipping/Change of Method
+X-SDOC: 932833
+X-ZLID: zl-edrm-enron-v2-whitt-m-250.eml
+
+Dear Mark Whitt,
+
+Thank you for your recent order via our website. Fortunately, we were able
+to change your shipping method before the package shipped. It will now be
+shipped via expedited ground, and should arrive in 5-7 business days. This
+will change the total cost of your order to $79.40.
+
+Unless you choose another method, all web orders are shipped SURFACE (via
+Parcel Post). This is your most cost effective shipping option (unless time
+is a factor), because it's based on the very low "bulk" rates Sierra Trading
+Post is able to negotiate due to its huge shipping volume.
+
+If you would like to specify another method of shipment, please remember to
+do so in the "Shipping" choices section during check-out, or place a note in
+the "Comments" section. 
+
+Thanks for shopping with us. We appreciate your business.
+
+Sincerely,
+
+Vici
+Customer Service
+Sierra Trading Post
+trk
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********

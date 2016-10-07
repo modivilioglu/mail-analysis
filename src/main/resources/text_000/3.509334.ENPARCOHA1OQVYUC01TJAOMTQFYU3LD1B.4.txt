@@ -1,0 +1,71 @@
+KANSAS 
+COLORADO                              
+OKLAHOMA 
+DENVER                                               
+GARDEN 
+GUYMON                                                                                
+P 
+ENGIARAGNEERING SERVICEOS, INC. 
+HOUSTON, TEXAS 
+GAS PIPELINE                 
+LEGEND 
+CITY 
+CHALK BLUFFS STATION 
+(CHEYENNE HUB)                                                                                
+HESSTON 
+STATION 
+HUGOTON 
+STATION                                                     
+BLACKWELL 
+STATION 
+P  
+R  
+O  
+P  
+O  
+S  
+E  
+D  
+3  
+0  
+"  
+1  
+8  
+"  
+/  2  
+0  
+"  
+26" 
+26" 
+DENVER 
+STATION      
+ADAMS 
+WELD 
+ARAPAHOE 
+ELBERT   
+LINCOLN            
+CHEYENNE 
+KIOW A 
+PROW ERS   
+HAMILTON 
+GRANT  
+HASKELL 
+SEWARD 
+BEAVER 
+LIBERAL 
+COLORADO 
+SPRINGS                                    
+KEARNY                                                                                
+States 
+Counties 
+Major Waterbodies 
+NGPL Pipeline 
+ANR Pipeline 
+Panhandle Pipeline 
+Northern Natural Pipeline 
+WGP-Central Oklahoma-Hugoton Line 
+WGP-Central Hugoton Line 
+WGP-Central Rawlins-Hesston Line 
+Proposed 16" Wattenberg Lateral 
+Proposed 30" Mainline 
+Compressor Station 

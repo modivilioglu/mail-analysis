@@ -1,0 +1,78 @@
+October 5, 2001
+
+
+
+
+J.M. Huber Corporation
+11451 Katy Freeway, Suite 400
+Houston, Texas 77079
+
+ Re:  Letter of Intent
+Ladies and Gentlemen:
+This letter of intent ("Agreement") effective when executed by all the parties hereto, will evidence the current mutual intent, as set forth in Article I below, of Enron North America Corp., a Delaware corporation ("ENA") and J.M. Huber Corporation, a New Jersey corporation ("Huber"), for the capacity release of certain transportation gas capacity and a gas purchase/sale transaction (the "Project").  Huber and ENA are sometimes referred to individually as a "Party" and collectively as the "Parties".
+This Agreement is intended to set forth certain basic terms of the understanding reached to date and to serve as a basis for further discussions and negotiations among the Parties with respect to the Project.  The matters set forth in Article I are not intended to, and do not, constitute a binding agreement of the Parties with respect to the Project.  Any such binding agreement will only arise upon the negotiation, execution and delivery of a mutually satisfactory definitive agreements and the satisfaction of the conditions set forth therein, including the approval of such agreements by each Party.  The matters set forth in Article II do constitute binding agreements of the Parties.
+In consideration of the rights and obligations of the Parties hereunder, and other good and valuable consideration, the receipt and sufficiency of which being hereby acknowledged by the Parties, the Parties hereby agree as follows:
+ARTICLE I
+THE PROJECT
+
+Definitive Agreements. The Parties will meet to discuss the Project and the necessary agreements relating thereto to work towards the execution of definitive agreements by October 18, 2001.  It is understood that the Parties are not, by virtue of this Agreement undertaking any liability with regard to the Project; any such undertaking would be addressed in a subsequent definitive agreement.
+Non-Binding. Neither Party is obligated hereunder to enter into any definitive agreement with the other, with respect to the Project.
+
+3.  Release of El Paso Capacity.  ENA would permanently release 30,000 MMBtu of transportation capacity (the “Capacity”) on El Paso Natural Gas Company (“El Paso”) to Huber for a term commencing on November 1, 2001 and ending on May 31, 2006.  Such release would be a prearranged capacity release transaction at the maximum rate specificed in El Paso’s FERC approved transportation rates.  
+ 
+4.  Re-Release of El Paso Capacity.  Huber would release the Capacity to ENA for successive one (1) year terms during the term of the gas purchase as set forth in Paragraph 5 below in order for ENA to meet its obligations under such gas purchase.  Such release would be a prearranged capacity release transaction at the maximum rate specificed in El Paso’s FERC approved transportation rates.  
+
+
+5.  Gas Purchase.  ENA would purchase Huber gas in the following packages:
+
+
+DCQ: The quantity of gas scheduled by El Paso at PG&E Topock based on a nomination by ENA of 30,000 MMBtu per day at PG&E Topock
+Price:  Gas Daily Midpoint Index for PG&E Large Packages for the applicable period less $0.05 per MMBtu
+Delivery Point: PG&E Topock
+Period of Delivery: November 1, 2001 through May 30, 2006
+  
+
+DCQ:  The remaining quantity of gas not scheduled by El Paso at PG&E Topock in Section 5.A. above and alternatively nominated by ENA into Northwest Pipeline
+Price: Gas Daily Midpoint Index for Northwest Pipeline Wyoming Pool, for the applicable period less $0.10 per MMBtu
+Delivery Point:  El Paso Williams- Ignacio Plant Tailgate
+Period of Delivery:  November 1, 2001 until the first full month following the reallocation of receipt point capacity by El Paso Natural Gas Company
+
+
+DCQ:  Up to 10,000 MMBtu per day
+Price: Inside FERC El Paso San Juan Index less $.10 per MMBtu
+Delivery Point: El Paso Williams- Ignacio Plant Tailgate
+Period of Delivery: November 1, 2001 until the first full month following the reallocation of receipt point capacity by El Paso Natural Gas Company
+
+
+ENA and Huber would utilize the pricing structure set forth above to create a “wellhead sale” from Huber to ENA under this transaction in which the Delivery Points under 5.A, 5.B and 5.C above would be converted to the outlet of the Durango compressor station and ENA would manage all of Huber’s logistics and scheduling for the gas packages downstream of such compressor station.  The prices set forth in 5.A, 5.B and 5.C would be decreased by the appropriate gathering charges, fuel charges and any other charges which are applicable under Huber’s gathering agreements for this gas.  The gas purchase/sale set forth in this Paragraph 3 would be executed under that certain Enfolio® Master Firm Purchase/Sale agreement between ENA and Huber dated August 1, 2000.
+ARTICLE II
+BINDING AGREEMENTS
+
+TERM.  This Agreement shall remain in force and effect until the earliest to occur of the following events:  (i) until such time that it becomes clear to either Party that the Project will not be economically viable or otherwise successful; or (ii) October 31, 2001 (the "Term").  The provisions of Section 3, Confidentiality, shall survive any termination of this Agreement, as necessary for them to expire according to their terms as expressed in that section.
+CONFIDENTIALITY.  (a)  For a period beginning on the date of this Agreement and ending one (1) year after the expiration of the Term hereof, neither Party will disclose confidential information furnished to it pursuant to this Agreement without the prior written consent of the other Party (other than to its employees, representatives, lenders, counsel, lender's counsel and affiliates, if any, collectively, its "representatives") which representatives agree to be bound by the terms hereof.  The term "confidential information" shall not include information (a) as may become generally available to the public, (b) known to a Party at the time of disclosure or acquired at any time from a source other than the other Party hereto that was not prohibited from making disclosure, or (c) required to be disclosed in order to comply with any applicable law, order, regulation or ruling.  Neither Party will use confidential information other than for the purpose of evaluating, negotiating and consummating the Project.
+(b) Each Party shall promptly inform the other Party of the substance of any inquiries received by such Party from any governmental or regulatory authority in connection with attempts to gain access to confidential information concerning the Project.
+(c) Confidential information shall be identified in writing as such by the Party claiming confidentiality, and shall include the existence of this Agreement, its contents, and negotiations under this Agreement.
+
+REPRESENTATIONS AND WARRANTIES.  Each Party hereby represents and warrants to the other Party that this Agreement (a) has been validly executed and delivered, (b) has been duly authorized by all action necessary for the authorization hereof, and (c) is the legal, valid and binding obligation of such Party, enforceable in accordance with its terms.
+EXPENSES.  Each Party shall bear its own costs associated with negotiating and performing under this Agreement.
+APPROVAL.  No Party shall be bound by any definitive agreement relating to the Project until (a) such Party's respective upper management, or other governing body, shall have approved the definitive agreement, (b) such Party shall have executed the definitive agreement, and (c) all conditions precedent to the effectiveness of any such definitive agreement shall have been satisfied.
+ENTIRE AGREEMENT.  This Agreement constitutes the entire agreement of the Parties relating to the subject matter hereof and supersedes all prior discussions, agreements or understandings, whether oral or written, relating to such subject matter.  There are no other written or oral agreements or understandings among the Parties.  Any amendment of this Agreement must be written and signed by both Parties.
+GOVERNING LAW.  THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS, WITHOUT GIVING EFFECT TO CONFLICT OF LAWS PRINCIPLES.
+NON-INCLUSIVE; NON-BINDING.  This Agreement does not contain all matters upon which agreement must be reached in order for the Project to be completed.  This Agreement does not create and is not intended to create a binding and enforceable contract between the Parties with respect to the provisions of Article I and the subject matter of the Project, and may not be relied upon by a Party as the basis for a contract by estoppel or otherwise.  A binding commitment with respect to the Project can only result from the execution and delivery of a definitive agreement.
+RELATIONSHIP OF THE PARTIES.  The Parties shall not be deemed in a relationship of partners or joint venturers by virtue of this Agreement, nor shall either Party be an agent, representative, trustee or fiduciary of the other.  Neither Party shall have any authority to bind the other to any agreement.
+BINDING ARBITRATION.  The Parties shall attempt to resolve any dispute, controversy, difference or claim arising between them concerning the interpretation, performance or enforcement of this Agreement (a "Dispute") through direct discussion.  If, in the sole opinion and discretion of either Party, such discussion is unsuccessful, such Party may submit the Dispute to mediation.  Unless otherwise agreed by the Parties, the mediation will be submitted to the American Arbitration Association ("AAA") and will be held in Houston, Texas for at least three (3) days.  If the mediation attempt is unsuccessful, either Party may submit the Dispute to the AAA for binding arbitration before three arbitrators, one chosen by each Party (each, a "Party Arbitrator") and the third, a chief arbitrator, chosen by the Party Arbitrators.  The Party Arbitrators may consult with their principals on any question.  If at least two arbitrators agree and so order it, the losing Party will pay the reasonable legal fees and costs incurred by the other Party with respect to the arbitration.
+LIMITATION OF LIABILITY.  NOTWITHSTANDING ANYTHING HEREIN TO THE CONTRARY, NEITHER PARTY NOR THEIR RESPECTIVE DIRECTORS, OFFICERS, SHAREHOLDERS, MANAGERS, OR EMPLOYEES WILL BE LIABLE TO THE OTHER PARTY, OR ITS DIRECTORS, OFFICERS, SHAREHOLDERS, MANAGERS OR EMPLOYEES, WHETHER UNDER BREACH OF CONTRACT, BREACH OF WARRANTY, TORT LIABILITY (INCLUDING WITHOUT LIMITATION BOTH NEGLIGENCE AND STRICT LIABILITY), STRICT LIABILITY OR OTHERWISE, FOR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING WITHOUT LIMITATION LOST PROFITS OR REVENUE) OF ANY NATURE CONNECTED WITH OR RESULTING FROM PERFORMANCE OF THIS AGREEMENT (WHETHER OR NOT ARISING FROM HUBER'S SOLE, JOINT OR CONCURRENT NEGLIGENCE), BUT RATHER SHALL BE LIABLE ONLY FOR DIRECT ACTUAL DAMAGES ARISING FROM THE BREACHING PARTY'S WILLFUL BREACH OR SOLE, JOINT OR CONCURRENT NEGLIGENCE.
+ASSIGNMENT.  Neither Party may assign this Agreement without the prior written approval of the other Party, which approval shall not be unreasonably withheld or delayed.  
+If the provisions of Article I correctly set forth our current understanding and the provisions of Article II set forth our binding agreement, please execute both originals of this Agreement in the space provided below, retain one fully-executed original for your file, and return one of the other originals to the undersigned.  This Agreement may be executed in counterparts, and all such counterparts together shall constitute but one agreement.
+Very truly yours,
+ENRON NORTH AMERICA CORP.
+
+By:   
+Name:   
+Title:   
+Acknowledged, Agreed to and Accepted,
+this ___ day of October, 2001.
+J.M. HUBER CORPORATION
+By:   
+Printed Name:  
+Title:  

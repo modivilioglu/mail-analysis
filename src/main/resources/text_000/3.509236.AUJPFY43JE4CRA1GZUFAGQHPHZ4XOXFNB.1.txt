@@ -1,0 +1,20 @@
+Counterparty	Buy or Sell?	Start Date	End Date	Volume (MMBtu/d)	Delivery Point	Pricing	Contract Value	Comments	
+Kennedy Oil	Buy	1-Dec-01	31-Oct-03	  10,000 	Glenrock	IF NGPL Midcontinent - $0.47	  570,482 	
+Buy	1-Dec-01	31-Oct-03	  5,000 	Glenrock	NYMEX - $0.62	  265,183 	
+Buy	1-Dec-01	31-Oct-03	80% of Nom. less 15,000	Glenrock	IF CIG - $0.03	  346,100 	
+Buy	1-Dec-01	31-Oct-03	remaining production	CIG GD - $0.03	  162,870 	
+ $ 1,344,635 	
+J.M. Huber	Buy	1-Jun-02	31-May-13	  42,000 	Gage	IF NGPL MidContinent - $0.01	 $ 6,500,000 	
+POGO	Buy	current	1-Aug-05	  15,000 	Lost Creek	IF CIG	  875,609 	
+Buy	current	1-Aug-02	  7,500 	Lost Creek	IF CIG + $0.03	  151,948 	
+ $ 1,027,557 	
+Devon	Buy	1-Jan-02	31-Dec-02	1.8 Bcf over the year	Lost Creek	IF CIG or CIG GD (Devon's option)	 $ 50,000 	
+Williams	Buy	current	31-Oct-05	  10,000 	Opal	NYMEX - $0.33	  (748,824)	
+Sell	current	31-Oct-05	  10,000 	WIC	NYMEX - $0.33	  747,334 	
+ $ (1,490)	
+Burlington Resources	Buy	current	31-Oct-05	  10,000 	WIC	IF CIG + $0.035	 $ 144,144 	
+MPC Storage Blowdown	Sell	1-Dec-01	31-Mar-03	200,000 / month	CIG	IF CIG	 $ 2,000,000 	
+Cascade	Sell	current	31-Oct-03	  5,800 	Sumas	 $ 3.670 	  3,771,740 	
+Sell	current	31-Oct-03	  4,200 	Opal	 $ 3.075 	  1,737,540 	
+ $ 5,509,280 	
+Total Contract Value = 	 $ 16,574,126 	

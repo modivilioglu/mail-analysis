@@ -1,0 +1,22 @@
+Date: Fri, 5 Oct 2001 07:22:44 -0700 (PDT)
+From: Whitt, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MWHITT>
+To: 'htebs@huber.com'
+Subject: FW: Epngrts.xls
+X-SDOC: 1150350
+X-ZLID: zl-edrm-enron-v2-whitt-m-1200.eml
+
+Brian these are the actual rates.
+
+-----Original Message-----
+From: Miller, Stephanie 
+Sent: Thursday, October 04, 2001 4:06 PM
+To: Whitt, Mark
+Subject: Epngrts.xls
+
+
+ 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+Attachment: Epngrts.xls type=application/msexcell

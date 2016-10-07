@@ -1,0 +1,40 @@
+
+DISCUSSION DOCUMENT FOR THE PURCHASE AND SALE OF NATURAL GAS
+
+November  2001
+
+
+
+BUYER: Enron North America Corp (“Enron”)
+
+SELLER:  Independent Production Company (Independent)
+
+CONTRACT
+QUANTITY: Dedication of 100% of Independents’s previously undedicated coal bed methane production from Hannum and ____up to a total of 30,000 MMBtu per day
+
+CONTRACT
+TERM: December 1, 2001 – October 31, 2003
+
+DELIVERY
+POINT: At the interconnection between the Independent wellhead facilities and the applicable gathering system.  All pricing assumes that Independent will have gathering deals in place to get their gas to Glenrock. 
+ 
+GAS PRICE: For volumes of gas delivered hereunder each day for up to eighty percent (80%) of seller’s First of the Month Scheduled Volume the price will be the following Monthly indexes:
+Publication: Inside F.E.R.C.’s Gas Market Report
+Section: Prices of Spot Gas Delivered to Pipelines
+Location: Colorado Interstate Gas (North System)
+Price: Index minus $.03 less the gathering services fees on the applicable gathering systems
+Issue: First-of-the-month issue for each month during the Relevant Period.
+
+The remaining 20% of seller’s First of the Month Scheduled Volume will be priced as follows*:
+Publication: Gas Daily
+Section: Daily Price Survey - Rockies
+Location: Colorado Interstate Gas (North System)
+Price: Midpoint index minus $.03 less the gathering services fees on the applicable gathering systems
+Issue: Daily issue for the Relevant Period.
+
+*The Gas Daily pricing is meant to capture the swings in production and operations.
+SCHEDULING
+And PAYMENTS: 
+
+The gas from these areas will be pooled with Independent’s currently dedicated Hannum gas for nomination purposes and the total production will be used to determine the “First of the Month Scheduled Volume.  No later than seven days prior to the first day of each month Seller shall provide to Buyer nomination of the quantities seller expects to make available and schedule for delivery each month during the term hereof and buyer shall confirm the quantities buyer will take to seller no later than three days prior to the first day of such month.  This volume will be the “First of the Month Scheduled Volume”. 
+All payments will be made based upon the point of title transfer, which in this case is assumed to be the wellhead.  Enron will manage all aspects of Independent's logistics and scheduling.

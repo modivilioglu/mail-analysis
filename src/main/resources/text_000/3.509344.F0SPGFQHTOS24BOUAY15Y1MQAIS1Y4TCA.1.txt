@@ -1,0 +1,15 @@
+
+Calendar Year   	2002	2003	2004	2005	2006	
+Volume / Day   	  100,000 	  100,000 	  100,000 	  100,000 	  100,000 	
+Days/Year    	365	365	365	365	151	
+Demand Charge/MMbtu    	 $ 0.356480 	 $ 0.356480 	 $ 0.299080 	 $ 0.299080 	 $ 0.299080 	
+Gas Research Institute (GRI)    	 $ 0.001970 	 $ 0.001640 	 $ - 0 	 $ - 0 	 $ - 0 	
+ 	
+Total Calendar Demand Charge   	$(13,083,425.00)	$(13,071,380.00)	$(10,916,420.00)	$(10,916,420.00)	$(4,516,108.00)	
+ENA Payment Structure	
+(1) Lump Sum  Payment or 	$12,000,000 	
+(2) Annuity Payment	$2,400,000 	$2,400,000 	$2,400,000 	$2,400,000 	$2,400,000 	
+Adjusted Calendar Year Demand Charge (1)	$(1,083,425.00)	$(13,071,380.00)	$(10,916,420.00)	$(10,916,420.00)	$(4,516,108.00)	
+Adjusted Calendar Year Demand Charge (2)	$(10,683,425.00)	$(10,671,380.00)	$(8,516,420.00)	$(8,516,420.00)	$(2,116,108.00)	btychol:
+Step down of reservation add on charge is Dec. 31, 2003
+

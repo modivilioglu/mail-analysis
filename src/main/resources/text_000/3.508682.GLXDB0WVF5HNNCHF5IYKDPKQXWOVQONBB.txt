@@ -1,0 +1,23 @@
+Date: Wed, 29 Aug 2001 17:49:47 -0700 (PDT)
+Subject: 4 Ways to Enter Text
+X-SDOC: 932952
+X-ZLID: zl-edrm-enron-v2-whitt-m-366.eml
+
+4 Ways to Enter Text
+
+1. Type into your Desktop software, drop your handheld into the cradle, and press the HotSync
+ button to transfer the typed data.
+
+2. Use the onscreen keyboard. In the Graffiti
+ writing area below, tap the dot below "abc" for the alphabetic keyboard or the dot below "123" for the numeric keyboard.
+
+3. Use the stylus to write Graffiti characters in the writing area. Characters are mainly uppercase, single-stroke letters. Write letters on the left, numbers on the right. 
+
+
+Note: To call up a Graffiti reference screen, drag the stylus from the bottom of the writing area to the top of the screen. Or see the Graffiti Reference Card.
+
+4. Connect a portable keyboard to your handheld and type the data directly into your handheld.
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********

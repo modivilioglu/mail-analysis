@@ -1,0 +1,27 @@
+Office Equipment	
+(faxes, copiers, printers, and furniture)	
+QTY	DESCRIPTION	MODEL #	MANUFACTURER	LEASED (enter company name)	MAINTENANCE CONTRACT (enter company name)	
+1	Hewlett Packard Laser Jet 5m	Laser Jet 5m	HP	
+2	Fax Machines	Laser Class 7000	Canon	IKON #Z-9659	
+1	Copy/fax/Printer	Image Runner 400E	Canon	Danka 	ID # 5251-6406	
+1	Color Printer	Phaser 560	Tektronix	
+1	Reception Desk	
+7	Cherry Wood Executive Desks	
+7	Cherry Wood Book Shelves	
+2	Cherry Wood Credenzas	
+1	Large Cherry Wood Conf. Table (seats 12)	
+1	Round Cherry Wood Conf. Table (seats 6-7)	
+4	Reception Area Chairs (blue leather)	
+2	Black Reception Area tables	
+30	Desk/Conf. table Chairs (leather)	
+20	Deck/Conf. table Chairs 	IT Equipment	
+(workstations, laptops, pda, monitors, plasmas, servers, racks, routers, switches, WAN circuits, IPC, Avaya, and Nicelog)	
+QTY	DESCRIPTION	MODEL #	MANUFACTURER	LEASED (enter company name)	MAINTENANCE CONTRACT (enter company name)	
+1	Compaq Armada M300	M300	Compaq	
+3	Conpaq Deskpro P600	P600	Compaq	
+2	Compaq Deskpro	P450	Compaq	
+4	NEC MultiSync LCD 1830	LCD 1830	NEC	
+1	27 inch Monitor	
+1	TV	27"	Panasonic	Software Licenses	
+(market data feeds, exceed, access, etc)	
+QTY	DESCRIPTION	MANUFACTURER	

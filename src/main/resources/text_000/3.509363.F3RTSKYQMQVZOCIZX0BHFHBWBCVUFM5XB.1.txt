@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+J.M. Huber
+11451 Katy Frwy Suite 400
+Houston, Texas 77079
+
+October 22, 2001
+
+
+
+ENFOLIOâ "SPOT"  CONFIRMATION--MASTER "SPOT" PURCHASE/SALE AGREEMENT GOVERNS
+
+
+
+This Spot Confirmation shall confirm the Transaction agreed to on the date hereof and binding between J.M. Huber Corporation ("Customer") and Enron North America Corp. ("Company") regarding the purchase and sale of Gas on the following terms.  Company to purchase and receive (Buyer) and Customer to sell and deliver (Seller).
+
+
+TIER OF GAS:  Tier 1 Interruptible Gas
+DCQ (IN MMBTUS) (IF APPLICABLE):  100% of Seller’s Daily Deliverability (being all of the gas which is physically capable of being produced by Seller, or a producer with whom Seller has contracted, in accordance with applicable law from the Subject Wells) up to 65,000 MMBtus a Day. 
+DELIVERY POINT(S):  See Subject Well(s) 
+PERIOD OF DELIVERY:  December 1, 2001 through May 31, 2002
+
+FIELD NAME/COUNTY/STATE: 
+
+SUBJECT WELL(S)                                                                 METER NO./PIPELINE    
+[Mark,  we need the Wells/Delivery Points]
+
+CONTRACT PRICE (PER MMBTU):  The Contract Price for 80% of the First of the Month Scheduled Volume (hereafter defined) shall be the "Index Price" published in Inside F.E.R.C. for CIG Rockies as listed in the table entitled "Prices of Spot Gas Delivered to Pipelines" in the first of the month issue of such publication for each month during the period of delivery, LESS $0.03, and LESS any and all costs and expenses of Buyer attributable to the compression, dehydration, gathering, fuel, transporting and other post production operations necessary to transport the gas delivered hereunder to Glenrock, Wyoming  (the "Deduction").  The Contract Price for 20% of the First of the Month Scheduled Volume shall be the  "Index Price" published in Gas Daily for CIG Rockies as listed in the table for each day during the period of delivery LESS $0.03 LESS the Deduction.  Buyer and Seller agree that any reduction in the DCQ scheduled hereunder shall be subtracted from the Gas Daily priced quantities.
+
+OPERATIONS/DELIVERY-SCHEDULING PROCEDURES: No later than seven Days prior to the first Day of each Month, Seller shall provide to Buyer nomination of the quantities Seller expects to make available and schedule for delivery each Month during the term hereof and Buyer shall confirm the quantities Buyer will take to Seller no later than three Days prior to the first Day of such  Month (the "First of the Month Scheduled Volume").  Should Seller or Buyer desire to change the First of the Month Scheduled Volume for any reason during the Month , such Party shall notify the other Party not later than 12 hours prior to Transporter's nomination deadline for the first applicable Gas Day; provided however, intra month changes to the First of the Month Scheduled Volume shall not change the First of the Month Scheduled Volume for pricing purposes under this Spot Confirmation.  
+
+This Spot Confirmation is being provided pursuant to and in accordance with the MASTER "SPOT" PURCHASE/SALE AGREEMENT between Customer and Company and constitutes part of and is subject to all of the provisions thereof.  Company does hereby adopt this letterhead, including the address, as its signature in respect of the identification of Company and the authentication by Company of this Spot Confirmation.  Any objection of Customer to this Spot Confirmation must be made by written notice to Company on or before the Confirm Deadline.
+
+Each Party shall not disclose the terms of this Transaction to a third party (other than the Party's and its affiliates' employees, lenders, counsel, accountants or prospective purchasers of any rights under any Transactions who have agreed to keep such terms confidential) except in order to comply with any applicable law, order, regulation or exchange rule; provided, each Party shall notify the other Party of any proceeding of which it is aware which may result in disclosure and use reasonable efforts to prevent or limit the disclosure.  The provisions of the Agreement other than the terms of this Transaction are not subject to this confidentiality obligation.  The Parties shall be entitled to all remedies available at law or in equity to enforce, or seek relief in connection with, this confidentiality obligation; provided, all monetary damages shall be limited as set forth in the referenced Master Agreement.
+
+
+
+
+

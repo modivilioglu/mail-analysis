@@ -1,0 +1,7 @@
+Office Equipment	
+(faxes, copiers, printers, and furniture)	
+QTY	DESCRIPTION	MODEL #	MANUFACTURER	LEASED (enter company name)	MAINTENANCE CONTRACT (enter company name)	IT Equipment	
+(workstations, laptops, pda, monitors, plasmas, servers, racks, routers, switches, WAN circuits, IPC, Avaya, and Nicelog)	
+QTY	DESCRIPTION	MODEL #	MANUFACTURER	LEASED (enter company name)	MAINTENANCE CONTRACT (enter company name)	Software Licenses	
+(market data feeds, exceed, access, etc)	
+QTY	DESCRIPTION	MANUFACTURER	

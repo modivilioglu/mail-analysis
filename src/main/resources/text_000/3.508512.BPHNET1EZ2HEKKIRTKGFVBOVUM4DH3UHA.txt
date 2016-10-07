@@ -1,0 +1,36 @@
+Date: Mon, 10 Dec 2001 08:53:59 -0800 (PST)
+Subject: Your password has been reset
+To: mark.whitt@enron.com
+From: sap_security@enron.com
+X-SDOC: 932791
+X-ZLID: zl-edrm-enron-v2-whitt-m-208.eml
+
+  
+ 
+Thank you for using our automated self service password reset option.    
+ 
+The user id and password in SAP (Apollo Production and HR Production), eHRonline, iBuyit and iPayit are all synchronized.  When you reset your password in eHRonline, it automatically synchronizes the password in the other systems.  
+ 
+Please follow the steps to reset and synchronize your passwords.
+ 
+1.        Go to ehronline.enron.com
+2.       Click on the   button
+3.       Enter your User Id (SAP Personnel Number) and temporary password (located at the bottom of this email)
+4.       You will then be asked to change your password
+5.       Enter your new password twice
+6.       Once you have successfully changed your password in eHRonline, you have synchronized your password for SAP (Apollo Production and HR Production), eHRonline, iBuyit and iPayit
+7.       If you were trying to access an application other than eHRonline, close eHRonline and proceed to the desired application.  You will now be able to log in with your NEW password.
+ 
+ THIS IS A GENERATED EMAIL - DO NOT REPLY!
+ 
+IF YOU NEED FURTHER ASSISTANCE, CONTACT THE ISC HELP DESK AT:  713-345-4727
+ 
+The password for your account: P00502912   has been reset to: 12895618  
+ 
+Go to eHRonline now: http://ehronline.enron.com <https://ehronline.enron.com/>   
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+Attachment: ATT22403.gif type=image/gif
+Attachment: ATT22404.dat type=application/octet-stream

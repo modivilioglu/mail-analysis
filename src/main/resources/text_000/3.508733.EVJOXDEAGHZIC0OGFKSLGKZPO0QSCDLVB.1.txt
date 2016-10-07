@@ -1,0 +1,60 @@
+
+
+
+
+
+To:
+Barry Tycholiz
+
+
+
+
+
+
+From:
+Mark Whitt
+Department:
+West Gas Origination
+
+
+
+
+Subject:
+Hourly Peaking Opportunities
+Date:
+October 24, 2001
+
+
+Executive Summary
+  Recent pipeline tariff changes being developed to manage the increased gas fired peaking power plants being constructed throughout North America will create opportunities for new products and services.  The demands placed on pipeline operators to deal with the changes to their load profile will drive the development of new assets and services to meet these demands.  These new services will dramatically increase the delivered cost of gas to these new power plants.   The transportation costs alone could double or triple.  In addition, there will be increased risk of incurring penalties for non-uniform delivery.  In addition, pipelines could force generators to have expensive new capacity built in order to create enough line pack for loads which do not flow on an evenly 1/24th hourly flow.
+ The development of a physical alternative to these expensive pipeline services could have a tremendous market value.  This physical alternative could be coupled with Enron’s financial structuring, physical delivery and asset management services to provide a high margin structured transaction.
+Background
+ Currently this opportunity is not yet widely applicable in the U.S market but should become increasingly applicable in the U.S. market but should become applicable over the 2002 – 2004 timeframe.  Colorado Interstate Gas (CIG) has just passed tariff provisions requiring customers to have even hourly takes throughout the daily 24-hour period or suffer substantial penalties.  In order to avoid these penalties, CIG has developed a service, which allows intra-day peaking.  However, this service can be very expensive.  It is my opinion that other interstate pipelines will follow suit.
+ In response to these tariff provisions, I would like to investigate the commercial feasibility of developing some type of on-site balancing/storage/peaking facility for use at generation sites.  If it is feasible we should then couple it with physical and financial risk/asset management structures and be prepared to hit the market with these services once the other interstate pipelines adopt these tariff provisions.
+ Given the forward power curve and the influx of new generation in the 9,000 to 11,000 Heat Rate range, most new generation currently under development will be used in peaking applications ranging from 4 to 16 hours.  In order to accomplish this under existing pipeline tariffs, generators will nominate the total amount of gas needed for a day which presumes an equal amount of gas taken in each of the 24 hours during that day.  (i.e. 24,000 Mmbtu per day nomination would require a generator to take 1,000 Mmbtu per hour, thereby matching their supply into the pipe).  This becomes impossible to do when generating across a 4 to 16 hour peak.  For example, a generator who requires 24,000 Mmbtu in order to generate electricity over an 8-hour period would be burning at a rate of 3,000 Mmbtu per hour, for 8 hours.  In order for the pipeline operator to serve this load they must “pack” the system for the first 8 hours while the generators supply enters the pipeline but they are not taking it.  Then the pipeline must allow the generator to “draft” the system down across the 8 hours in the peak of the day, just to have to pack the pipeline again across the last 8 hours of the day while the generator quits burning gas but it’s supply continues to enter the system.
+CIG Tariff changes 
+CIG’s tarriff changes effectively call for hourly balancing.  All markets on the system will have to take gas in evenly hourly takes or suffer penalties for hourly variances.
+Prior to CIG’s tarriff changes, a generator who needed to burn 24,000 mmbtu in a given day would pay transportation charges of $.375 per mmbtu for a cost of (24,000 x $.375 = $9,000).
+Under CIG’s tarriff changes, any hourly variance in deliveries vs. nominations will be penalized.  Hourly deliveries are measured against hourly nominations for each of the 24 hourly periods during the day.  The largest variance in any one-hour establishes the penalty volume.  In our previous example, the generator who nominated 24,000 Mmbtu per day, or 1,000 Mmbtu per h our and took gas at a rate of 3,000 Mmbtu per hour for 8 hours and 0 Mmbtu per hour for the remaining 16 hours would have a penalty volume of 2,000 Mmbtu per hour.  The penalty for this hourly imbalance would be (2,000 X 24 X $.75 =$36,000) plus the transportation costs of (24,000X $.375=9,000) for a total transportation/balancing charge of $45,000 or $1.875 per mmbtu.
+The service CIG has developed is the Hourly Entitlement Enhancement Notice (HEEN) service, which works like the following:
+ The generator who needs 3,000 Mmbtu per hour for 8 hours vs. 1,000 Mmbtu per hour for 24 hours can use the HEEN service to avoid penalties.  The HEEN service would require the generator to nominate 1,000 mmbtu per hour flowing gas and 2,000 mmbtu per hour HEEN nomination.  This HEEN service dramatically increases the transportation cost vs. traditional costs.  For example, the generator who needs 3,000 Mmbtu per hour would nominate 3,000 Mmbtu per hour for the entire day at a cost of (24 X 3,000 X  $.375 = $27,000) or 3 times the traditional rate.  The per Mmbtu rate would be $1.125 per Mmbtu.
+To further exasperate the situation, if a generator builds in an area where there is no available capacity the pipeline may force them to have new capacity built for their max hourly load.  This would likely take a 10-year commitment of demand charges.
+Logistics
+The ability to flatten these hourly loads across the day and manage the “Gas Day vs. Power Day” hourly discrepancies will take a concerted logistical and planning effort, but it can be accomplished.  In addition, the existence of this facility will provide a generator the optionality associated with intraday hourly powere demand outside of the traditional gas nomination and trading cycles.  In addition, it would be critical to optimize the flowing and the injection/withdrawl gas in order to achieve maximum efficiency.
+Economics
+
+Potential Solutions: 
+I would like to investigate a potential solution to this situation.  The one that seems the most elementary would be some type of on-site storage/peaking facility.  It seems like large high-pressure bullet tanks with some type of compression to basically smooth the takes off of the pipeline system on an hourly basis.
+Upside
+By using this facility as a tool in a supply management function there would be tremendous optionality.  The potential upsides for ENA as manager of this type of on-site balancing service:
+  The facility would allow ENA to buy cheap off-cycle gas and have a home for it.
+  The facility would also allow ENA to withdraw gas.  
+These opportunities would be available when the power plant is not using the balancing function or could be priced against paying the penalties to the pipeline.
+Physical Attributes of Facility
+
+
+
+
+
+CC:
+

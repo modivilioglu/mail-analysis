@@ -1,0 +1,25 @@
+Date: Thu, 6 Dec 2001 15:40:44 -0800 (PST)
+From: enron_update@concureworkplace.com
+To: Mark Whitt <mark.whitt@enron.com>
+Subject: <<Concur Expense Document>> - 121001
+X-SDOC: 932778
+X-ZLID: zl-edrm-enron-v2-whitt-m-195.eml
+
+The Approval status has changed on the following report:
+
+Status last changed by:  Automated Administrator
+Expense Report Name: 121001
+Report Total: $198.98
+Amount Due Employee: $198.98
+Amount Approved: $198.98
+Amount Paid: $0.00
+Approval Status: Pending
+Payment Status: Pending
+
+
+To review this expense report, click on the following link for Concur Expense.
+http://expensexms.enron.com
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********

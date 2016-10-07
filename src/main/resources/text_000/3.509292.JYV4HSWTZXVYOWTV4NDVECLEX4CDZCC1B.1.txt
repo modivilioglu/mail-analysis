@@ -1,0 +1,77 @@
+Enron North America - West Gas	NYMEX Month	Nov-01	Dec-01	Jan-02	Feb-02	Mar-02	Apr-02	May-02	Jun-02	Jul-02	Aug-02	Sep-02	Oct-02	
+October 26, 2001	Current	2.938	3.103	3.25	3.248	3.195	3.095	3.125	3.165	3.2	3.235	3.235	3.265	
+10-Day High	2.981	3.171	3.326	3.321	3.261	3.146	3.176	3.221	3.261	3.301	3.301	3.331	
+ENA - West Gas Contacts	10-Day Low	2.378	2.66	2.852	2.85	2.81	2.727	2.757	2.804	2.847	2.89	2.892	2.92	
+Houston Office	Regional Offices	
+Barry Tycholiz	(713) 853-1587	Mark Whitt	(303) 575-6473	Denver	
+Kim Ward	(713) 853-0685	Paul Lucci	(303) 575-6474	Denver	
+Stephanie Miller	(713) 853-1688	Tyrell Harrison	(303) 575-6478	Denver	
+Philip Polsky	(713) 853-5181	Dave Fuller	(503) 464-3732	Portland	
+Forward Prices (US$/MMBtu)	
+NYMEX	The recent precipitous decline in the forward gas curve has created a situation where many of our customers have locked in gas prices that are as much as $2.50 above market for this coming winter.  A blend & extend product allows you to take advantage of the depressed forward curve by extending your purchase deal and spreading the above-market premium over a longer time period.	IF NWPL Rocky Mountains	
+Fixed Price	Basis	
+SETTLE	D	BID	OFFER	BID	OFFER	
+Cash	  2.820 	  2.840 	
+ROM	Example:	  2.580 	  2.600 	
+Nov-01	  2.938 	  (0.043)	In April, Company XYZ locked in $5.00 gas for this coming winter, which is substantially out of the money in today's market.	Existing Nov-Mar Deal	  2.553 	  2.573 	  (0.385)	  (0.365)	
+Nov-01	to	Mar-02	  3.147 	  (0.065)	10,000	MMBtu/d	  2.812 	  2.832 	  (0.335)	  (0.315)	
+Apr-02	to	Oct-02	  3.189 	  (0.060)	XYZ can blend & extend the existing deal as follows:	Price:	$5.00 	  2.664 	  2.684 	  (0.525)	  (0.505)	
+Nov-02	to	Mar-03	  3.603 	  (0.085)	Volume:  20,000 MMBtu/d	New "blended" price:	$2.90 	  3.323 	  3.343 	  (0.280)	  (0.260)	
+One Year Strip*	  3.171 	  (0.062)	Term:  Nov'01-Oct'02	Net Benefit this Winter:	$2.10 	per MMBtu	  2.725 	  2.745 	  (0.446)	  (0.426)	
+IF CIG Rocky Mountains	IF EL Paso Permian	IF EL Paso San Juan	
+Fixed Price	Basis	Fixed Price	Basis	Fixed Price	Basis	
+BID	OFFER	BID	OFFER	BID	OFFER	BID	OFFER	BID	OFFER	BID	OFFER	
+Cash	  2.810 	  2.830 	  2.955 	  2.975 	  2.870 	  2.890 	
+ROM	  2.490 	  2.510 	  2.750 	  2.770 	  2.700 	  2.720 	
+Nov-01	  2.508 	  2.528 	  (0.430)	  (0.410)	  2.733 	  2.753 	  (0.205)	  (0.185)	  2.643 	  2.663 	  (0.295)	  (0.275)	
+Nov-01	to	Mar-02	  2.767 	  2.787 	  (0.380)	  (0.360)	  2.972 	  2.992 	  (0.175)	  (0.155)	  2.881 	  2.901 	  (0.266)	  (0.246)	
+Apr-02	to	Oct-02	  2.564 	  2.584 	  (0.625)	  (0.605)	  3.051 	  3.071 	  (0.138)	  (0.118)	  2.874 	  2.894 	  (0.314)	  (0.294)	
+Nov-02	to	Mar-03	  3.278 	  3.298 	  (0.325)	  (0.305)	  3.455 	  3.475 	  (0.149)	  (0.129)	  3.398 	  3.418 	  (0.205)	  (0.185)	
+One Year Strip*	  2.648 	  2.668 	  (0.523)	  (0.503)	  3.018 	  3.038 	  (0.153)	  (0.133)	  2.877 	  2.897 	  (0.294)	  (0.274)	
+AECO / NIT	IF NWPL Canadian Border (Sumas)	IF PEPL TX-OK	
+Fixed Price	Basis	Fixed Price	Basis	Fixed Price	Basis	
+BID	OFFER	BID	OFFER	BID	OFFER	BID	OFFER	BID	OFFER	BID	OFFER	
+Cash	  2.662 	  2.682 	  2.875 	  2.895 	  2.900 	  2.920 	
+ROM	  2.622 	  2.642 	  2.730 	  2.750 	  2.900 	  2.920 	
+Nov-01	  2.307 	  2.327 	  (0.631)	  (0.611)	  2.788 	  2.808 	  (0.150)	  (0.130)	  2.828 	  2.848 	  (0.110)	  (0.090)	
+Nov-01	to	Mar-02	  2.660 	  2.680 	  (0.487)	  (0.467)	  3.121 	  3.141 	  (0.026)	  (0.006)	  3.037 	  3.057 	  (0.110)	  (0.090)	
+Apr-02	to	Oct-02	  2.699 	  2.719 	  (0.490)	  (0.470)	  2.869 	  2.889 	  (0.320)	  (0.300)	  3.069 	  3.089 	  (0.120)	  (0.100)	
+Nov-02	to	Mar-03	  3.188 	  3.208 	  (0.415)	  (0.395)	  3.683 	  3.703 	  0.080 	  0.100 	  3.483 	  3.503 	  (0.120)	  (0.100)	
+One Year Strip*	  2.682 	  2.702 	  (0.489)	  (0.469)	  2.974 	  2.994 	  (0.198)	  (0.178)	  3.055 	  3.075 	  (0.116)	  (0.096)	
+NGI Socal (South Cal Border)	NGI Malin (North Cal Border)	PG&E City Gate	
+Fixed Price	Basis	Fixed Price	Basis	Fixed Price	Basis	
+BID	OFFER	BID	OFFER	BID	OFFER	BID	OFFER	BID	OFFER	BID	OFFER	
+Cash	  3.055 	  3.075 	  3.005 	  3.025 	  3.195 	  3.215 	
+ROM	  2.880 	  2.900 	  2.730 	  2.750 	  2.980 	  3.000 	
+Nov-01	  2.858 	  2.878 	  (0.080)	  (0.060)	  2.853 	  2.873 	  (0.085)	  (0.065)	  3.003 	  3.023 	  0.065 	  0.085 	
+Nov-01	to	Mar-02	  3.154 	  3.174 	  0.007 	  0.027 	  3.115 	  3.135 	  (0.032)	  (0.012)	  3.279 	  3.299 	  0.132 	  0.152 	
+Apr-02	to	Oct-02	  3.321 	  3.341 	  0.133 	  0.153 	  3.123 	  3.143 	  (0.066)	  (0.046)	  3.343 	  3.363 	  0.154 	  0.174 	
+Nov-02	to	Mar-03	  3.733 	  3.753 	  0.130 	  0.150 	  3.705 	  3.725 	  0.102 	  0.122 	  3.955 	  3.975 	  0.352 	  0.372 	
+One Year Strip*	  3.252 	  3.272 	  0.080 	  0.100 	  3.120 	  3.140 	  (0.052)	  (0.032)	  3.316 	  3.336 	  0.145 	  0.165 	
+Basis Spreads (US$/MMBtu)	
+From	NW, Rockies	NW, Rockies	SoCal	Malin	Permian	San Juan	
+To	SoCal	Malin	PG&E City Gate	PG&E City Gate	SoCal	SoCal	
+ROM	  0.300 	  0.150 	  0.100 	  0.250 	  0.130 	  0.180 	
+Nov-01	  0.305 	  0.300 	  0.145 	  0.150 	  0.125 	  0.215 	
+Nov-01	to	Mar-02	  0.342 	  0.303 	  0.125 	  0.164 	  0.182 	  0.273 	
+Apr-02	to	Oct-02	  0.658 	  0.459 	  0.021 	  0.220 	  0.270 	  0.447 	
+Nov-02	to	Mar-03	  0.410 	  0.382 	  0.222 	  0.250 	  0.279 	  0.335 	
+One Year Strip*	  0.526 	  0.394 	  0.065 	  0.197 	  0.234 	  0.375 	
+From	NW, Rockies	San Juan	CIG, Rockies	NW, Rockies	CIG, Rockies	AECO	
+To	San Juan	Permian	NW, Rockies	Sumas	PEPL TX-OK	NW, Rockies	
+ROM	  0.120 	  0.050 	  0.090 	  0.150 	  0.410 	  (0.042)	
+Nov-01	  0.090 	  0.090 	  0.045 	  0.235 	  0.320 	  0.246 	
+Nov-01	to	Mar-02	  0.069 	  0.091 	  0.045 	  0.309 	  0.270 	  0.152 	
+Apr-02	to	Oct-02	  0.211 	  0.177 	  0.100 	  0.205 	  0.505 	  (0.035)	
+Nov-02	to	Mar-03	  0.075 	  0.057 	  0.045 	  0.360 	  0.205 	  0.135 	
+One Year Strip*	  0.152 	  0.141 	  0.077 	  0.248 	  0.407 	  0.043 	
+* The "One Year Strip" values represent the average forward price over the next 12 months, beginning with the current prompt month.	
+All price indications are as of the close of the previous business day and do not constitute an offer to do business at these prices.  All prices are financial unless otherwise noted.	
+The information in this e-mail is confidential.  Please do not distribute this information outside of your company.	
+Congratulations to Dan Foulston	
+of Canadian Western Natural Gas!!!	
+He is the winner of our weekend getaway	
+to Lake Louise. Dan's guess of $1.375 C/GJ	
+was the closest to the average Aeco	
+day gas price for the first	
+15 days of December.	

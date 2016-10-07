@@ -1,0 +1,12 @@
+Date: Mon, 29 Oct 2001 07:07:16 -0800 (PST)
+Subject: Enron Structure Sheet - October 29
+From: Laporte  Nicole <Nicole.LaPorte@ENRON.com>
+X-SDOC: 1151196
+X-ZLID: zl-edrm-enron-v2-whitt-m-1232.eml
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+Attachment: October 29 Structure.xls type=application/msexcell

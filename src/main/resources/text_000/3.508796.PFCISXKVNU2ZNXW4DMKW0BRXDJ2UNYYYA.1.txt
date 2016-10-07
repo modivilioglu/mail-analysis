@@ -1,0 +1,49 @@
+
+DISCUSSION DOCUMENT FOR THE PURCHASE AND SALE OF NATURAL GAS
+
+October  2001
+
+
+
+BUYER: Enron North America Corp (“Enron”)
+
+SELLER:  Pioneer Oil (“Pioneer”)
+
+CONTRACT
+QUANTITY: Dedication of 100% of Pioneer’s coal bed methane production from T55N; R79W up to a total of 20,000 MMBtu per day
+
+CONTRACT
+TERM: The in-service date of the necessary gathering facilities; estimated to be December 1, 2001 – October 31, 2002
+
+DELIVERY
+POINT: At the interconnection between the Pioneer wellhead facilities and the Bear Paw Energy pipeline system.  However, all pricing in this proposal is priced at Glenrock.  Enron will manage Pioneer’s gathering contracts on Bear Paw, Big Horn and Fort Union and deduct those charges from these quoted prices.
+
+GAS PRICE: Upon the in-service date, and until the production levels consistently exceed 2,500 Mcf per day, 100% of the production will be priced as follows*:
+Publication: Gas Daily
+Section: Daily Price Survey - Rockies
+Location: Colorado Interstate Gas (North System)
+Price: Midpoint index minus $.04 less the gathering services fees on Big Horn Gas Gathering, Bear Paw Energy and Fort Union
+Issue: Daily issue for the Relevant Period.
+
+Once the production levels consistently exceed 2,500 Mcf per day the pricing will convert to the following pricing scenario:
+For volumes of gas delivered hereunder each day for up to eighty percent (80%) of seller’s First of the Month Scheduled Volume the price will be the following Monthly indexes:
+Publication: Inside F.E.R.C.’s Gas Market Report
+Section: Prices of Spot Gas Delivered to Pipelines
+Location: Colorado Interstate Gas (North System)
+Price: Index minus $.04 less the gathering service fees on Big Horn Gas Gathering, Bear Paw Energy and Fort Union
+
+Issue: First-of-the-month issue for each month during the Relevant Period.
+
+The remaining 20% of seller’s First of the Month Scheduled Volume will be priced as follows*:
+Publication: Gas Daily
+Section: Daily Price Survey - Rockies
+Location: Colorado Interstate Gas (North System)
+Price: Midpoint index minus $.04 plus the gathering services fees on Big Horn Gas Gathering, Bear Paw Energy and Fort Union
+Issue: Daily issue for the Relevant Period.
+
+*The Gas Daily pricing is meant to capture the swings in production and operations.
+SCHEDULING
+And PAYMENTS: 
+
+No later than seven days prior to the first day of each month Seller shall provide to Buyer nomination of the quantities seller expects to make available and schedule for delivery each month during the term hereof and buyer shall confirm the quantities buyer will take to seller no later than three days prior to the first day of such month.  This volume will be the “First of the Month Scheduled Volume”. 
+All payments will be made based upon the point of title transfer, which in this case is assumed to be the wellhead.  Enron will manage all aspects of Pioneer’s logistics and scheduling.

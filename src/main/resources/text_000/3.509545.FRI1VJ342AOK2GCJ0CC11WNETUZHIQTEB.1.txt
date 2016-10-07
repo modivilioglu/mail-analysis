@@ -1,0 +1,252 @@
+
+
+
+
+
+To:
+Barry Tycholiz, Mark Whitt, Paul Lucci
+
+
+
+
+
+
+From:
+Tyrell Harrison
+Department:
+ENA West Gas Origination
+
+
+
+
+Subject:
+WBI Storage Opportunity
+Date:
+September 20, 2001
+Opportunity Brief
+Williston Basin Interstate Pipeline Company (WBI) has two primary storage facilities –  Baker and Elk Basin.  The storage fields use only 20-25 Bcf of working gas capacity, which is supported by approximately 170 Bcf of base gas.  Furthermore, only 12 Bcf of the working gas is used for firm storage service (held by WBI’s affiliate Montana-Dakota Utilities), with remainder used by interruptible customers.  
+
+The largest storage facility, Baker, has 123 Bcf of base gas, with at least 81 Bcf categorized as recoverable.  With infrastructure improvements, the Elk Basin storage facility could potentially satisfy all of WBI’s injection, withdrawal, and capacity service obligations, freeing up the base gas from the Baker facility to be extracted and sold into NBPL and CIG markets.  The present value of the base gas could be $125-175 million, depending on the rate and cost of extraction.  Currently, the base gas is on WBI’s books at a cost basis is $25-40 million, creating the potential for a significant gain for WBI.
+
+Enron could purchase the gas in the ground at the Baker facility and, in return, support the required infrastructure investments (new pipe, compression, and injection/withdrawal wells) that would allow the Elk Basin facility to satisfy all of WBI’s storage service obligations at no incremental cost to the existing ratepayers.
+
+Necessary infrastructure improvements would likely include at least 200 miles of new pipe and new compression to support WBI’s storage service obligations in the absence of the Baker facility.  Improved capability/reliability of service will likely be the benchmark required by FERC and the local PUC’s before providing the necessary approvals.  The expected capital costs of these system modifications are a key variable in determining the attractiveness of any deal.
+
+Furthemore, the accounting treatment of the gas purchase and the associated capital projects would be critical to the feasibility of the deal.  All parties (WBI, MDU, rate-payers, Enron, etc.) must benefit financially in order for the deal to have a chance to succeed.
+
+WBI Background
+http://www.wbip.com/wbi/index.html
+
+WBI is a wholly owned subsidiary of MDU Resources Group, Inc. (NYSE – ticker: MDU), which has a market capatilization of approximately $1.8 billion.  During the 2nd quarter of 2001, WBI accounted for $3.3 million of MDU’s $37.5 million in net income.
+
+WBI provides transportation services through a natural gas pipeline system located in Montana, North Dakota, South Dakota and Wyoming and storage service from three locations integrated into the pipeline system. Williston Basin's 3,100-mile pipeline connects to several significant natural gas producing basins, including Wyoming’s Wind and Powder River basins, and is also connected to several major pipelines.
+
+WBI’s major pipeline interconnects:
+Northern Border - Glen Ullin and Ft. Buford Wind River Gathering – Madden  KN Interstate - Madden/Lost Cabin
+Colorado Interstate Gas - Elk Basin  MIGC – Recluse    Many Islands Pipeline – Portal
+Montana Power Company – Warren  Northern Gas Company of Wyoming - Billy Creek
+
+Montana-Dakota Utilities (MDU) is the utility business unit of MDU Resources and an affiliate of WBI.  MDU serves customers in North Dakota, South Dakota, Wyoming, Montana, and Minnesota.  An awareness of MDU and its relationship to WBI is critical in this proposed transaction because MDU is the single largest holder of firm storage on WBI.  
+
+
+WBI’s major storage fields:
+
+Composition of Baker's 123 Bcf 
+of Base Gas
+Non-recoverable – 42 Bcf
+
+
+Recoverable – 22 Bcf
+
+
+Injected – 59 Bcf
+
+
+
+(capacities are in Bcf and injection/withdrawals are in MMBtu/d)
+
+
+Baker
+Elk Basin
+Working Gas Capacity
+164
+28
+Base Gas
+123
+35
+Total Capacity
+287
+63
+
+
+
+Estimated Working Inventory at End of Injection Season
+8
+16
+
+
+
+Max Injection
+170,000
+90,000
+Max Withdrawal
+125,000
+185,000
+
+How much gas is recoverable from the Baker facility?
+It can be assumed that the recoverable gas from a blow-down of the Baker field would be at least 81 Bcf, which represents the summation of “recoverable” and “injected” categories of base gas.  Furthermore, it is possible that some of the “non-recoverable” category could be feasible to extract in today’s price environment.  A technical study of the Baker reservoir is required to determine the extent of the economically recoverable gas.
+
+Proposed 16” Line Loop
+
+
+Baker Storage
+
+
+CIG
+
+
+NBPL
+
+
+Elk Basin Storage
+
+
+Bismarck and other WBI markets
+
+
+WBI System Diagram
+
+
+
+
+Infrastructure projects are required to abandon the Baker facility
+In order to abandon the Baker storage field, capital projects would be required to maintain WBI’s ability to satisfy its obligations to the firm storage customers.  
+
+
+
+The chart to the right illustrates WBI’s total injection/withdrawal curve over the last 10 months.  Maximum injections are roughly 175,000 MMBtu/d and peak withdrawals are approximately 181,000 MMBtu/d.  Currently, the Elk Basin facility is only able to inject 90,000 MMBtu/d, which is substantially less than WBI’s historical injection behavior.  However, it should be noted that a portion of these injections and withdrawals are from interruptible customers.  Nonetheless, it is reasonable to assume that additional injection and withdrawal wells  would be required at the Elk Basin field to maintain WBI’s current service level.
+
+
+Total Injections (Withdrawals) for WBI's Storage Facilities
+(200,000)
+(150,000)
+(100,000)
+(50,000)
+0
+50,000
+100,000
+150,000
+200,000
+Dec-00
+Jan-01
+Feb-01
+Mar-01
+Apr-01
+May-01
+Jun-01
+Jul-01
+Aug-01
+Sep-01
+MMBtu/d
+
+
+
+Furthermore, new physical pipe and compression will likely be required to carry storage gas from Elk Basin to WBI’s markets in the north that have traditionally been served by Baker.  At least 200 miles of new pipe would be required at a cost of roughly $50 million in addtion to the cost of pipe compression that is estimated at $10 million.
+
+An in depth analysis of the feasibility of compression additions versus the system’s ability to replace storage service with flowing gas is required in order to completely estimate the profitability of blowing-down the Baker field.
+
+
+Preliminary Economics
+The following assumptions and calculations should be considered rough, at best.
+Assumptions:
+
+The annual decline of economically feasible extraction of the base gas is 40%.  For example, year one rate is assumed to be 90,000 MMBtu/d and year two declines to 54,000 MMBtu/d.
+All of the injected and recoverable gas can be economically extracted, but none of the non-recoverable
+The extracted gas can be sold for Inside FERC CIG Rocky Mountains Index at WBI’s Elk Basin and Warren delivery points.
+Extraction costs are 15% of revenues.
+200 miles of new pipe is necessary, costing $48,000,000 (based on the $15,000/in-mile convention)
+New compression along the 200 miles of new pipe costs an incremental $10,000,000
+New injection/withdrawal wells and other miscellaneous system improvements cost $10,000,000
+The Baker facility base gas is valued on WBI’s books  at $30,000,000, which is reasonable given that WBI does not assign value to native gas and its overall WACOG for injected gas is $0.48/MMBtu.
+The project will not be substantially delayed by any regulatory processes
+
+Economic Present Value Calculations:
+
+Gross value of economically recoverable base gas
+$ 181,000,000
+Extaction costs
+($ 27,000,000)
+
+$ 154,000,000
+Book value of gas (absolute minimum compensation to WBI)
+($ 30,000,000)
+
+$ 124,000,000
+New pipe capital expenditure (pipe & compression)
+($ 58,000,000)
+New injection/withdrawal wells and miscellaneous capital costs 
+($ 10,000,000)
+Estimated net economic value of Baker blowdown
+$ 56,000,000
+
+The economics illustrated above use extremely rough numbers gloss over many of the intricacies of the transaction such as regulatory issues, compensation to ratepayers vs WBI, and the split of value between Enron and WBI, to name a few.  However, the projected economic value is substantial enough to warrant further investigation and development of this transaction.
+Regulatory Considerations
+The structure of the transaction must take into account the regulatory framework within which WBI operates.  Specific attention must be paid to the treatment of gains originating from the sale of base gas.
+
+The following are excerpts from a memorandum prepared for ENA by LeBoeuf, Lamb, Greene & MacRae
+L.L.P. , dated July 27, 2001.  The memorandum evaluates Federal Energy Regulatory Commission (FERC) matters under the Natural Gas Act (NGA) relating to Base Gas Transaction Structures.
+
+“a pipeline likely will be permitted to retain the net gain on the sale of base gas and particularly so, if: (a) the ratepayers are insulated against operating risk; (b) ratepayers receive a net benefit in the form of reduced rate base in the next rate case; and (c) a public policy objective is fostered by the incentive of retaining net gain;
+
+issues respecting treatment of gain on sales of base gas, as well as concerns about whether a pre-arranged transaction would be consistent with the open access sales standards under section 284.284, are more likely to be avoided if the gas is sold to an affiliate at book value.  This path, however, creates the risk of the Commission looking through an affiliate transaction under which the pipeline receives less than market value for the sale of an asset;
+
+a pipeline may receive value in excess of book in the form of consideration for other services, although the Commission will look through sham transactions.  Service transactions must be structured to avoid being considered a proscribed option either because of non-conformity with the pipeline’s tariff or because firm capacity would be withheld from the market for other shippers offering to pay maximum rates;
+
+a pipeline seeking to sell base gas and retain proceeds should apply to the Commission for authority to construct a facility for which there is a particular need and condition the project on Commission approval of financing . . . This introduces a public policy reason—infrastructure investment—to permit retention of net proceeds and provides concrete and measurable benefits against which future costs . . . may be compared.”
+
+Note: A project of this scope could potentially require a 7C filing with the FERC on the part of WBI.  Should such a filing be necessary, delays from the FERC approval process could be as long as 18 to 24 months.
+Proposed Transaction Structure
+This transaction is in the very initial stages of development and the following structure should be considered as starting point, to be modified as we gain further insight from WBI and internal Enron groups (regulatory, legal, accounting, engineering, etc.).
+
+
+ENA purchases the gas in the ground at the Baker storage field
+The purchase price would be a function of the expected recoverable gas, realized price, and cost of extraction, and Enron’s required compensation
+The price would reflect the price risk, volume risk, and extraction cost risk
+The structure of the payment is uncertain (direct purchase, affiliate transfer, through a service agreement, or other)
+Assuming there is no degradation of service or increase in cost to existing transportation and storage customers, WBI should be able to retain any gain on sale.
+
+
+ENA would enter into a firm transportation contract from the Baker field to the interconnecting pipelines at the Elk Basin field
+The rate ENA pays to WBI would be sufficient to support  1) construction of new pipe and compression to take gas from the Elk Basin field to WBI’s markets, and 2) the capital costs associated with additional injection/withdrawal wells, allowing WBI’s service level to be maintained in absence of the Baker field.
+The contract with ENA would be categorized as a counterflow to the physical requirements of maintaining WBI’s storage service.
+
+Ultimately, for the transaction to be feasible, the following requirements must be satisfied:
+
+WBI is financially rewarded for entering into the transaction
+Service and cost is maintained or improved for WBI’s firm storage customers
+No degradation of service or increase in costs for existing WBI shippers
+System flexibility and costs are maintained or improved in regards to WBI’s use of storage to balance their system (satisfy full requirements and no notice customers, if any)
+FERC must agree to the changes
+Enron is compensated for monetizing Baker’s storage gas and facilitating system improvements
+Enron must be able to demonstrate the value to WBI of including Enron in the transaction
+
+Action Items:
+
+Work with regulatory and legal to develop a structure that fits within WBI’s regulatory framework
+Develop more technically sound expectations for base gas extraction rates and the associated fixed and variable costs
+Develop more refined estimates of necessary WBI system improvements (pipe, compression, injection/withdrawal wells, etc.)
+Develop approach to demonstrate Enron value
+Approach WBI with the opportunity
+
+
+
+
+
+
+
+
+
+
+
+
+

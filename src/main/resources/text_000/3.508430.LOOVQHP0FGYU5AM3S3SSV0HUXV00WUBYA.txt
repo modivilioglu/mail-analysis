@@ -1,0 +1,42 @@
+Date: Fri, 16 Nov 2001 11:01:03 -0800 (PST)
+Subject: SAP System Outage
+From: ISC Systems Notification <mbx_iscsysno@ENRON.com>
+To: DL-Enron Production SAP Users <DL-EnronProductionSAPUsers@ENRON.com>
+X-SDOC: 1369985
+X-ZLID: zl-edrm-enron-v2-whitt-m-1762.eml
+
+  
+
+System Outage Notification
+
+Outage Description:
+
+All SAP systems (including Prod Interface, all EBP systems, iPayit, iBuyit, and FTP servers) will be shutdown in order to upgrade our storage hardware. This maintenance is required to ensure that sufficient storage is available for the SAP Production systems.
+
+ 
+
+Date & Time of Outage: 
+
+Outage Commences: November 16, 2001 @ 8:00pm CST
+
+Outage Ends: November 19, 2001 @ 2:00am CST
+
+ 
+
+Contacts:
+
+
+
+Contact:
+
+Contact Information:
+
+ISC Customer Care 
+
+713-345-4727
+
+ Gary Sentiff	  713-857-2161	
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********

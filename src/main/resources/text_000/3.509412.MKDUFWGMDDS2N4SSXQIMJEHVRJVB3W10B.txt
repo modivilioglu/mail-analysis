@@ -1,0 +1,18 @@
+Date: Mon, 15 Oct 2001 17:24:19 -0700 (PDT)
+Subject: Huber Docs
+From: Nemec  Gerald <Gerald.Nemec@ENRON.com>
+To: Whitt  Mark <Mark.Whitt@ENRON.com>
+Cc: Tycholiz  Barry <Barry.Tycholiz@ENRON.com>
+X-SDOC: 1151334
+X-ZLID: zl-edrm-enron-v2-whitt-m-1360.eml
+
+Attached are the latest based on our discussions.  I couldn't redline the Capacity Release Agreement, so I am only sending a clean version.  I would still make a general caveat, that we still need to do a final review of the gathering agreement.  This could add to the Transaction Agreement.
+
+   
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+Attachment: Huber Capacity Release(El Paso)3.doc type=application/msword
+Attachment: JM Huber Confirm (Cal)3(red).doc type=application/msword
+Attachment: JM Huber Confirm (Cal)3.doc type=application/msword

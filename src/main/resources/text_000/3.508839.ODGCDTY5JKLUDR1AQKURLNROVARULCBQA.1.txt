@@ -1,0 +1,289 @@
+SETTLEMENTS	Enron Canada Corp. 	CONTACTS	
+Aeco Prompt (C$/GJ)	Nymex Prompt (US$/MMBtu)	Dow Close	Structured Energy Update	
+4.170 	0.215	3.202	0.161	9,270	-275.60	
+Aeco Cash (C$/GJ)	HH Cash (U$/MMBtu)	BofC Noon FX	
+4.070 	0.250 	  3.200 	0.100	1.5746	-0.001	
+Cash Basis (US$/MMBtu)	WTI Prompt (US$/Bbl)	TSE Close	Tuesday, October 30, 2001	
+(0.472)	0.072	22.32	0.08	6,896	-108.58	
+3.955	-5.45E-01	22.2363	9545.1	1.5752	7004.92	
+NATURAL GAS PRICES (US$/MMBtu unless otherwise noted)	
+Nymex	Aeco (CAD/GJ)	Aeco Basis	Aeco/Empress Transport (CAD/GJ)	Station 2 Basis	Station 2 Fixed Price (CAD/GJ)	Dawn Basis	Niagara Basis	
+Nymex	Nymex	FX	FX	AecoB	AecoB	ETransport	ETransport	Station2B	Station2B	Station2	Station2	DawnB	DawnB	NiagaraB	NiagaraB	
+-0.01	0.01	-0.01	0.01	-0.01	0.01	-0.01	0.01	-0.01	0.01	-0.01	0.01	-0.01	0.01	-0.01	0.01	
+Bid	Offer	Bid	Offer	Bid	Offer	Bid	Offer	Bid	Offer	Bid	Offer	Bid	Offer	Bid	Offer	
+Cash (fixed price)	3.190 	3.210 	4.060 	4.080 	4.105 	4.125 	3.350 	3.370 	3.400 	3.420 	
+ROM (fixed price)	3.250 	3.270 	4.060 	4.080 	0.005 	0.025 	4.140 	4.160 	3.360 	3.380 	3.380 	3.400 	
+Prompt 	3.192 	3.212 	4.155 	4.185 	(0.417)	(0.397)	0.160 	0.170 	(0.719)	(0.699)	3.710 	3.730 	0.185 	0.205 	0.340 	0.360 	
+Nov-01-Mar-02	3.358 	3.378 	4.331 	4.361 	(0.467)	(0.447)	0.152 	0.172 	(0.413)	(0.393)	4.416 	4.436 	0.183 	0.203 	0.338 	0.358 	
+Apr-02-Oct-02	3.358 	3.378 	4.261 	4.291 	(0.515)	(0.495)	0.130 	0.150 	(0.448)	(0.428)	4.366 	4.386 	0.130 	0.150 	0.175 	0.195 	
+Nov-01-Oct-02	3.358 	3.378 	4.290 	4.320 	(0.495)	(0.475)	0.139 	0.159 	(0.433)	(0.413)	4.387 	4.407 	0.152 	0.172 	0.243 	0.263 	
+Nov-02-Mar-03	3.746 	3.766 	4.966 	4.996 	(0.430)	(0.410)	0.130 	0.150 	(0.120)	(0.100)	5.434 	5.454 	0.225 	0.245 	0.385 	0.405 	
+Apr-03-Oct-03	3.597 	3.617 	4.738 	4.768 	(0.435)	(0.415)	0.130 	0.150 	(0.355)	(0.335)	4.863 	4.883 	0.130 	0.150 	0.165 	0.185 	
+NATURAL GAS PRICES (US$/MMBtu unless otherwise noted)	
+Sumas Basis	Rockies Basis	Malin Basis	Socal Basis	San Juan Basis	Ventura Basis	Chicago City Gate Basis	TZ6	
+  SumasB	  SumasB	  RockiesB	  RockiesB	  MalinB	  MalinB	SocalB	SocalB	San Juan	San Juan	VentB	VentB	  ChicagoB	  ChicagoB	   TZ6B	   TZ6B	
+-0.01	0.01	-0.01	0.01	-0.01	0.01	-0.01	0.01	-0.01	0.01	-0.01	0.01	-0.01	0.01	-0.01	0.01	
+Bid	Offer	Bid	Offer	Bid	Offer	Bid	Offer	Bid	Offer	Bid	Offer	Bid	Offer	Bid	Offer	
+Cash (fixed price)	2.830 	2.850 	2.695 	2.715 	2.935 	2.955 	3.065 	3.085 	  	 	3.100 	3.120 	3.220 	3.240 	3.805 	3.825 	
+ROM (fixed price)	2.900 	2.920 	2.720 	2.740 	2.850 	2.870 	3.100 	3.120 	(0.010)	0.010 	3.140 	3.160 	3.210 	3.230 	3.800 	3.820 	
+Prompt 	(0.410)	(0.390)	(0.610)	(0.590)	(0.295)	(0.275)	(0.300)	(0.280)	(0.515)	(0.495)	0.000 	0.020 	0.090 	0.110 	0.505 	0.525 	
+Nov-01-Mar-02	(0.113)	(0.093)	(0.416)	(0.396)	(0.107)	(0.087)	(0.071)	(0.051)	(0.345)	(0.325)	0.010 	0.030 	0.140 	0.160 	1.467 	1.487 	
+Apr-02-Oct-02	(0.339)	(0.319)	(0.540)	(0.520)	(0.076)	(0.056)	0.121 	0.141 	(0.334)	(0.314)	(0.090)	(0.070)	0.030 	0.050 	0.400 	0.420 	
+Nov-01-Oct-02	(0.245)	(0.225)	(0.489)	(0.469)	(0.089)	(0.069)	0.041 	0.061 	(0.339)	(0.319)	(0.048)	(0.028)	0.076 	0.096 	0.845 	0.865 	
+Nov-02-Mar-03	0.072 	0.092 	(0.280)	(0.260)	0.084 	0.104 	0.119 	0.139 	(0.205)	(0.185)	0.020 	0.040 	0.130 	0.150 	1.210 	1.230 	
+Apr-03-Oct-03	(0.260)	(0.240)	(0.430)	(0.410)	0.025 	0.045 	0.220 	0.240 	(0.280)	(0.260)	(0.090)	(0.070)	0.030 	0.050 	0.370 	0.390 	
+STRUCTURES	
+$1.00 OTM Aeco Floors (C$/GJ)	$1.00 OTM Aeco Caps (C$/GJ)	Aeco Costless Collar (C$/GJ)	$1.00 OTM Nymex Floors (US$/MMbtu)	$1.00 OTM Nymex Caps (US$/MMbtu)	Nymex Costless Collar (US$/Mmbtu)	
+Bid	Offer	Bid	Offer	Put	Call	Bid	Offer	Bid	Offer	Put	Call	
+Apr-02-Oct-02	0.229 	0.279 	Apr-02-Oct-02	0.376 	0.426 	Apr-02-Oct-02	3.276 	5.950 	Apr-02-Oct-02	0.080 	0.130 	Apr-02-Oct-02	0.195 	0.245 	Apr-02-Oct-02	2.368 	5.062 	
+Nov-01-Oct-02	0.171 	0.221 	Nov-01-Oct-02	0.328 	0.378 	Nov-01-Oct-02	3.247 	6.077 	Nov-01-Oct-02	0.061 	0.111 	Nov-01-Oct-02	0.165 	0.215 	Nov-01-Oct-02	2.368 	5.066 	
+WEEKLY STRATEGY	 COMMENTARY	FIELD RECEIPTS	ALBERTA POWER POOL  (C$/MWh) 	WTI Swaps (US$/Bbl)	
+Nymex prices are poised to finally move lower today. Storage fundamentals are self explanatory and temperatures are expected to be above normal. Do not be surprised to see a significant trend lower over the next few days. Producers should strongly consider the "weekly structure."	2001 YTD	2000 YTD	7 X 24	Peak	Off Peak	Change	
+Alberta	12740	12291	Yesterday	48.03	1 month	22.32	0.08	
+BC	1958	1745	Prompt	44.01 -  48.06	53.98 - 57.72	35.29 - 39.60	2 month	22.35	0.08	
+STORAGE	Rest of Year	45.69 -  50.03	55.19 - 59.13	38.30 - 42.96	3 month	22.36	0.07	
+% Full 2001	% Full 2000	Q1 2002	44.04 -  57.04	58.52 - 69.33	32.11 - 46.90	6 month	22.36	0.07	
+US	93%	80%	Q2 2002	40.94 -  51.35	53.44 - 63.82	29.90 - 40.34	Rest of Cal  01	22.32	0.08	
+Canada	81%	80%	Q3 2002	41.13 -  48.98	51.99 - 59.40	32.01 - 40.23	Cal 02	22.21	0.06	
+6-10 DAY WEATHER OUTLOOK	AGA STORAGE	CGA STORAGE	ENRONONLINE PROMPT AECO (NIT)	HENRY HUB CASH	FORWARD GAS CURVES	
+This Year	Last Year	This Year	Last Year	
+19-Oct	25.00 	71.00 	19-Oct	2.38 	3.20 	
+12-Oct	63.00 	29.00 	12-Oct	3.18 	7.65 	7 yr average
+2000-2001
+3-Nov-00
+10-Nov-00
+17-Nov-00
+24-Nov-00
+1-Dec-00
+8-Dec-00
+15-Dec-00
+22-Dec-00
+29-Dec-00
+5-Jan-01
+12-Jan-01
+19-Jan-01
+26-Jan-01
+2-Feb-01
+9-Feb-01
+16-Feb-01
+23-Feb-01
+2-Mar-01
+9-Mar-01
+16-Mar-01
+23-Mar-01
+30-Mar-01
+6-Apr-01
+13-Apr-01
+20-Apr-01
+27-Apr-01
+4-May-01
+11-May-01
+18-May-01
+25-May-01
+1-Jun-01
+8-Jun-01
+15-Jun-01
+22-Jun-01
+29-Jun-01
+6-Jul-01
+13-Jul-01
+20-Jul-01
+27-Jul-01
+3-Aug-01
+10-Aug-01
+17-Aug-01
+24-Aug-01
+31-Aug-01
+7-Sep-01
+14-Sep-01
+21-Sep-01
+28-Sep-01
+5-Oct-01
+12-Oct-01
+19-Oct-01
+26-Oct-01
+
+6 yr average
+2000-2001
+3-Nov
+10-Nov
+17-Nov
+24-Nov
+1-Dec
+8-Dec
+15-Dec
+22-Dec
+29-Dec
+5-Jan
+12-Jan
+19-Jan
+26-Jan
+2-Feb
+9-Feb
+16-Feb
+23-Feb
+2-Mar
+9-Mar
+16-Mar
+23-Mar
+30-Mar
+6-Apr
+13-Apr
+20-Apr
+27-Apr
+4-May
+11-May
+18-May
+25-May
+1-Jun
+8-Jun
+15-Jun
+22-Jun
+29-Jun
+6-Jul
+13-Jul
+20-Jul
+27-Jul
+3-Aug
+10-Aug
+17-Aug
+24-Aug
+31-Aug
+7-Sep
+14-Sep
+21-Sep
+28-Sep
+5-Oct
+12-Oct
+19-Oct
+26-Oct
+
+Aeco  Daily Basis
+30-Aug
+31-Aug
+3-Sep
+4-Sep
+5-Sep
+6-Sep
+7-Sep
+10-Sep
+11-Sep
+12-Sep
+13-Sep
+14-Sep
+17-Sep
+18-Sep
+19-Sep
+20-Sep
+21-Sep
+24-Sep
+25-Sep
+26-Sep
+27-Sep
+28-Sep
+1-Oct
+2-Oct
+3-Oct
+4-Oct
+5-Oct
+8-Oct
+9-Oct
+10-Oct
+11-Oct
+12-Oct
+15-Oct
+16-Oct
+17-Oct
+18-Oct
+19-Oct
+22-Oct
+23-Oct
+24-Oct
+25-Oct
+26-Oct
+
+Henry HubCashMid
+30-Aug
+31-Aug
+3-Sep
+4-Sep
+5-Sep
+6-Sep
+7-Sep
+10-Sep
+11-Sep
+12-Sep
+13-Sep
+14-Sep
+17-Sep
+18-Sep
+19-Sep
+20-Sep
+21-Sep
+24-Sep
+25-Sep
+26-Sep
+27-Sep
+28-Sep
+1-Oct
+2-Oct
+3-Oct
+4-Oct
+5-Oct
+8-Oct
+9-Oct
+10-Oct
+11-Oct
+12-Oct
+15-Oct
+16-Oct
+17-Oct
+18-Oct
+19-Oct
+22-Oct
+23-Oct
+24-Oct
+25-Oct
+26-Oct
+29-Oct
+30-Oct
+
+7 yr average 
+2000-2001
+Nymex
+Aeco
+All price indications are as of the close of the previous business day and do not constitute an offer to do business at these prices. All prices are financial unless otherwise noted. This information is provided to you solely for informational purposes. Enron Canada Corp. and its affiliates make no representation or warranty, and shall have no liability whatsoever, relating to the accuracy, currency, or completeness of this information and no person receiving this information shall, or is entitled to, rely on this information in any manner whatsoever. This information is not intended to, and shall not in any way, bind or otherwise impose any legal or equitable obligation on Enron Canada Corp. or any of its affiliates (which are expressly released). The information in this fax/email is confidential. Please do not distribute this information outside of your company.
+Bcf
+Bcf
+If you believe prices are going lower, a producer should consider the following "3-way." Enron will give you a $4.00 CAD/GJ floor and a cap of $5.50 CAD/GJ. If prices go below $4.00 CAD/GJ, you will be protected down to $3.25 CAD/GJ. If prices go below $3.25 you will receive Aeco Monthly Index + 75¢ CAD/GJ
+Eric Le Dain         
+Howard Sangwine
+Grant Oh            
+Steve Burnham
+
+Derek Davies
+Michael Law
+974-6741
+974-6704
+974-6778
+1-416-865-3712
+
+974-6793
+974-6927
+
+974-6751
+974-6750
+974-6954
+1-514-499-2133
+
+974-6731
+974-6717
+Dean Drozdiak
+Cyntia DiStefano
+Gerry Hrap
+Darren Delage
+
+Shawn Anderson
+Jason Biever
+OIL & GAS MARKETING
+POWER MARKETING

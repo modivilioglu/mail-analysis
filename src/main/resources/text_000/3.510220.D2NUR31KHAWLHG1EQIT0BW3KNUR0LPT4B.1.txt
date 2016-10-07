@@ -1,0 +1,666 @@
+Gas Fundamentals
+In the Pacific Northwest 
+Presentation by Dave Fuller
+
+
+Proprietary and Confidential 9/01
+
+2
+2
+PNW Gas Issues
+Supply - no local production
+Demand – from strong growth to reduction
+Storage – limited storage capacity
+Pipelines - pipes fully subscribed
+Gas-fired generation – is the dream over
+California – proximity creates uncertainty
+Weather – forecasts move markets
+Prices – aforementioned issues drive volatility
+
+3
+3
+PNW Supply Summary
+
+4
+4
+Gas Flows in the West
+To
+Chicago
+Northern Border
+Kern
+PGT
+Northwest
+El Paso
+El Paso
+KN
+NGPL
+= Glenrock
+= Cheyenne/Rockport
+= OPAL
+WIC
+Powder River Basin
+Big Horn Basin
+Wind River Basin
+Green River Basin
+San Juan Basin
+Permian Basin
+Paradox Basin
+Uinta Basin
+Northwest
+Piceance Basin
+Trailblazer
+CIG
+DJ Basin
+Raton Basin
+CIG
+Overthrust
+WBI
+Alliance
+Northwest
+
+5
+5
+Canadian Rig Counts are Up
+Record Levels of Canadian Activity
+Recent data indicates 328 active rigs at the end of August
+This is off 43% from the year-to-date high of 539 rigs in January 2001
+Similar constraints as those found in the U.S. market
+Total Canadian Gas Rigs
+0
+200
+400
+600
+800
+1000
+1200
+1
+5
+9
+13
+17
+21
+25
+29
+33
+37
+41
+45
+49
+Week
+#of Rigs
+Offshore Canadian Rigs
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+4
+7
+10
+13
+16
+19
+22
+25
+28
+31
+34
+37
+40
+43
+46
+49
+52
+Week
+#of Rigs
+Canadian Land Rigs
+0
+200
+400
+600
+800
+1000
+1200
+1
+5
+9
+13
+17
+21
+25
+29
+33
+37
+41
+45
+49
+Week
+#of Rigs
+
+6
+6
+Canadian Field Receipts 
+are Up
+
+7
+7
+A mosquito-ridden bog in remote northeastern British Columbia has become one of Canada's richest finds of the past two decades
+
+Canadian Natural said test results from its recent Ladyfern well showed it had the capability of producing 100 million cubic feet of gas a day, rivaling some finds in the deep water Gulf of Mexico
+
+Ladyfern is expected to deliver between 100 million and 150 million cubic feet per day during the last half of 2001.
+
+
+
+Ladyfern May Represent a Significant 
+Supply Addition
+
+8
+8
+Canadian Imports are Strong 
+and Growing
+Note: The bulk of these imports are
+going to the Midwest and Northeast.
+Increases come largely from new 
+production not cannibalization of 
+existing production.
+
+9
+9
+Rockies Rig Counts are Up Too
+9
+Drilling is continuing at the highest pace in over a decade despite the infrastructure constraints that have appeared over the last year.
+
+Note: Powder River Basin CBM rigs are excluded from the Baker-Hughes Wyoming rig count due the shallow nature of the CBM wells
+
+10
+10
+Rockies Receipts are Flat
+Rockies Field Receipts
+2.00
+2.50
+3.00
+3.50
+4.00
+4.50
+Sep-00
+Oct-00
+Nov-00
+Dec-00
+Jan-01
+Feb-01
+Mar-01
+Apr-01
+May-01
+Jun-01
+Jul-01
+Aug-01
+Sep-01
+Bcf/d
+San Juan Field Receipts
+2.00
+2.50
+3.00
+3.50
+4.00
+4.50
+Oct-99
+Dec-99
+Feb-00
+Apr-00
+Jun-00
+Aug-00
+Oct-00
+Dec-00
+Feb-01
+Apr-01
+Jun-01
+Aug-01
+Oct-01
+Bcf/d
+
+11
+11
+Coal Bed Methane Play will Increase Rockies Production
+Key Features
+ - On pace to drill 4,500 wells per year, average of 11 wells per day
+ - Average production per well = 125 Mcf/d
+ - No production decline curve has been established, but industry is working on one
+ - CBM play has an estimated life span of 35 years, with each individual well lasting between
+   5-10 years
+ - Peak daily production estimated to be 2 Bcf/d
+
+     Possible Delays to Future Development 
+ - Water discharge permits
+ - BLM EIS, These studies are on going and continually analyze the cumulative effect on the 
+   environment
+ 
+
+12
+12
+Gas Demand
+
+13
+13
+Natural Gas Demand in the US
+20.5
+21
+21.5
+22
+22.5
+23
+23.5
+1999
+2000
+2001
+2002
+Source EIA
+
+14
+14
+Negative Industrial Demand Growth is Real
+
+15
+15
+Total US Natural Gas Demand
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Jan-98
+Apr-98
+Jul-98
+Oct-98
+Jan-99
+Apr-99
+Jul-99
+Oct-99
+Jan-00
+Apr-00
+Jul-00
+Oct-00
+Jan-01
+Apr-01
+Jul-01
+Total Demand
+Industrial Demand
+Electric Utility Demand
+Source EIA
+US Demand by Month
+
+16
+16
+Power Demand Response in the PNW
+-10%
+-8%
+-6%
+-4%
+-2%
+0%
+2%
+4%
+6%
+8%
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+Percent Change in Electricity Demand
+As of June 01
+Source: Northwest Power Pool
+
+17
+17
+Gas Storage
+
+18
+18
+The US Storage Picture
+The Rapid Pace Continues
+Strong storage levels reflective of weak fundamentals
+Unprecedented level of injections have been a critical factor in market declines
+As of September 2, the year-over-year storage surplus was 386 Bcf
+8 weeks left in injection season
+High probability of reaching 11/5/98 storage high of 3,094 Bcf
+1999/00 vs. 2000/01 Injection Seasons
+-40
+-20
+0
+20
+40
+60
+80
+100
+120
+140
+8-Apr
+8-May
+8-Jun
+8-Jul
+8-Aug
+8-Sep
+8-Oct
+Bcf Injection
+2000/01
+1999/00
+6-Year Avg.
+2000/01 Storage Deficit/Surplus
+-1000
+-800
+-600
+-400
+-200
+0
+200
+400
+600
+5-Nov
+5-Dec
+5-Jan
+5-Feb
+5-Mar
+5-Apr
+5-May
+5-Jun
+5-Jul
+5-Aug
+Bcf Surplus (Deficit)
+
+19
+19
+Limited Storage in the PNW
+LNG
+UG Storage
+Clay Basin
+Jackson Prairie
+Mist
+
+20
+20
+NWN Building Merchant Storage 
+at Mist
+Mist Expansion Scenario
+
+21
+21
+Pipeline Infrastructure
+
+22
+22
+PGT
+Conduit for Canadian gas: Kingsgate 
+   (2.3 Bcf/d) to Malin (1.9 Bcf/d)
+Key delivery points: Stanfield and Malin
+Tremendous growth in generation upstream of Malin (Hermiston, Coyote Springs, Rathdrum)
+No storage – balancing issues, volumetric OBA’s
+Mileage based rates and fuel
+Vintage capacity holds tremendous value relative to new build
+
+23
+23
+2002 PGT Expansion 
+211 MMcf/d to Malin with Nov. 2002 start
+Newport Generation: 52 years, 175 MMcf/d 
+Calpine: 40 years, 35.8 MMcf/d annual plus 20.4 MMcf/d winter 
+Rolled in rates and incremental fuel: 3.5% vs. 6.0%
+Probable fuel tracker, method to be determined
+Shippers matched on upstream capacity
+
+24
+24
+2003 PGT Expansion
+230 MMcf/d at Kingsgate: 130 MMcf/d at Malin, 100 MMcf/d at Stanfield
+November 2003 start
+Incremental rates of $.445 to Malin, $.20 to Stanfield and ?% fuel 
+2003 expansion shippers given priority on upstream Canadian pipeline expansions (move to front of queue)
+2004 expansion shippers subject to NPV calculation on Canadian pipes based on bids – contentious issue!
+2004 expansion competes with Ruby
+
+25
+25
+Washington Lateral
+Lateral targeted to cross central Washington to access generation growth along path to Seattle and I-5 corridor
+Incremental mileage based lateral fee
+300 – 400 MMcf/d with Nov. 2004 start
+Need Puget as an anchor
+
+26
+26
+Northwest Pipeline
+2.9 Bcf/d pipeline to the Pacific Northwest sourced by Canadian gas at Sumas, Stanfield and the Rockies
+Original firm obligations based upon 250 MMcf/d displacement (Pan Alberta)
+Postage stamp rates and fuel
+
+27
+27
+Issues/Opportunities
+
+Growth in generation load on I-5 corridor has created race between PGT and NWPL
+Capacity extremely tight
+Cumbersome displacement OFO’s and penalties until Nov. 2003 displacement fixes
+
+
+
+28
+28
+NWPL Expansions
+Evergreen: 278 MMcf/d from Sumas to I-5 generation (Duke, Idaho Power, Tractabel, Engage, Transalta) with June 2003 start. 
+ - only 254 MMcf/d incremental capacity
+ - $.41/mmbtu + incremental fuel (not public)
+Nov. 2003 Displacement fixes: 175 MMcf/d  Rockies to Stanfield, 50 MMcf/d Gorge to I-5
+ - settlement agreement to small rate increase
+Expect Fall open seasons for Evergreen II and incremental Gorge Crossing
+
+29
+29
+Gas Fired Generation
+
+30
+30
+New Power Generation
+Is the dream over for developers?
+Big rush to build
+12-month boom
+Power prices have crashed
+Market heat rates are down
+Significant demand response
+Supply/Demand balance equilibrating
+
+
+
+$
+
+31
+31
+Summary of New Generation in the West
+Expected New Generation Capacity
+(100% Capacity Under Construction, 50% Capacity Permitted)
+0
+2,500
+5,000
+7,500
+10,000
+12,500
+15,000
+17,500
+20,000
+22,500
+25,000
+27,500
+30,000
+May-01
+Jul-01
+Sep-01
+Nov-01
+Jan-02
+Mar-02
+May-02
+Jul-02
+Sep-02
+Nov-02
+Jan-03
+Mar-03
+May-03
+Jul-03
+Cumualitve Capacity (MW)
+NW  
+NP15  
+ZP26  
+SP15  
+SW  
+RO  
+Previous Forecast  
+
+32
+32
+Prices at Mid-C Have Crashed
+Mid-Columbia - Peak Index (firm)
+$0
+$100
+$200
+$300
+$400
+$500
+$600
+$700
+$800
+$900
+$1,000
+Aug-99
+Oct-99
+Dec-99
+Feb-00
+Apr-00
+Jun-00
+Aug-00
+Oct-00
+Dec-00
+Feb-01
+Apr-01
+Jun-01
+Aug-01
+
+33
+33
+Market Heat Rates have 
+Come Off
+Average Monthly Implied Heat Rate (Peak)
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+Jun-99
+Jul-99
+Aug-99
+Sep-99
+Oct-99
+Nov-99
+Dec-99
+Jan-00
+Feb-00
+Mar-00
+Apr-00
+May-00
+Jun-00
+Jul-00
+Aug-00
+Sep-00
+Oct-00
+Nov-00
+Dec-00
+Jan-01
+Feb-01
+Mar-01
+Apr-01
+May-01
+Jun-01
+Jul-01
+Aug-01
+BTU/KWH
+NW (Mid C)
+CA (COB)
+SW (Palo)
+Note: Oct 01 market heat rate
+was 12,700 (peak) and 11,100
+on 9/4/01.
+
+34
+34
+PNW Hydro Power – Why Didn’t the Lights Go Out
+The hydro shortage is real: Dams are at 55% of capacity second worst year on record
+Storage for next year is way behind
+Load bottoms out in September and builds through the winter
+Load shedding averted the widely forecast crisis
+1800 MW of aluminum smelting shut off
+Seattle and Tacoma raised rate 45% before summer
+No meaningful forecasts until December
+
+35
+35
+The Hydro Power Shortage 
+Is Real… and Ongoing
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+18000
+20000
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+2000
+2001
+Forecast
+Pacific Northwest Hydro Generation
+MW
+
+36
+36
+California Update
+
+37
+37
+Current Events in California
+
+PG&E in bankruptcy and will be largely implemented by Federal Bankruptcy judge and in the courts.
+SCE has deal with state PUC.  Requires financing, details to be implemented at state PUC.
+Rate increases of 40-80% or more for C&I customers
+Current West-wide mitigation caps prices at $91.87, but markets are clearing below this amount
+Rolling blackouts since Summer ’01 have been minimal or have not occurred
+Reasons include 10,000 MW of new capacity in the WSCC, price-induced conservation in the PNW and—beginning June ’01—California, economic downturn, cooler-than-normal weather
+
+
+

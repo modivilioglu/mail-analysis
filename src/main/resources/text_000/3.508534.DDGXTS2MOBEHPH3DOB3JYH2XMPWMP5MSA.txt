@@ -1,0 +1,25 @@
+Date: Wed, 12 Dec 2001 09:23:49 -0800 (PST)
+Subject: FW: Denver
+From: Chumley  Jason <Jason.Chumley@ENRON.com>
+To: Whitt  Mark <Mark.Whitt@ENRON.com>
+Cc: Dietrich  Dan <Dan.Dietrich@ENRON.com>
+X-SDOC: 932812
+X-ZLID: zl-edrm-enron-v2-whitt-m-229.eml
+
+Mark,
+
+Attached below is a spreadsheet to inventory the assets you have in you office.  Can you please fill this out as best as you can and send it back to me.
+
+Thanks,
+
+Jason Chumley
+Enron Networks
+Remote Infrastructure & Integration
+(713) 853-7996
+ 
+ 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+Attachment: zRemote Trading Office Asset Inventory == Template.xls type=application/msexcell

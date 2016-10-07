@@ -1,0 +1,13 @@
+Date: Mon, 10 Dec 2001 15:45:54 -0800 (PST)
+From: MAWhitt@aol.com
+Subject: (no subject)
+To: Mark.whitt@enron.com
+X-SDOC: 932793
+X-ZLID: zl-edrm-enron-v2-whitt-m-210.eml
+
+
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+Attachment: Mark Whitt resume 2001.doc type=application/msword
